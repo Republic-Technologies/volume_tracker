@@ -9,9 +9,17 @@
  */
 export const loadTradesData = async () => {
   try {
+    // Use PUBLIC_URL to handle both development and production paths
+    // In development, PUBLIC_URL is empty string, in production it's the homepage path
+    const publicUrl = process.env.PUBLIC_URL || '';
     // Add cache-busting query parameter to ensure fresh data
     const cacheBuster = `?v=${Date.now()}`;
-    const response = await fetch(`/trades.json${cacheBuster}`);
+    const response = await fetch(`${publicUrl}/trades.json${cacheBuster}`);
+    
+    if (!response.ok) {
+      throw new Error(`Failed to load trades.json: ${response.status} ${response.statusText}`);
+    }
+    
     const data = await response.json();
     return data;
   } catch (error) {
@@ -26,9 +34,17 @@ export const loadTradesData = async () => {
  */
 export const loadDepthChartData = async () => {
   try {
+    // Use PUBLIC_URL to handle both development and production paths
+    // In development, PUBLIC_URL is empty string, in production it's the homepage path
+    const publicUrl = process.env.PUBLIC_URL || '';
     // Add cache-busting query parameter to ensure fresh data
     const cacheBuster = `?v=${Date.now()}`;
-    const response = await fetch(`/depth_chart.json${cacheBuster}`);
+    const response = await fetch(`${publicUrl}/depth_chart.json${cacheBuster}`);
+    
+    if (!response.ok) {
+      throw new Error(`Failed to load depth_chart.json: ${response.status} ${response.statusText}`);
+    }
+    
     const data = await response.json();
     return data;
   } catch (error) {
