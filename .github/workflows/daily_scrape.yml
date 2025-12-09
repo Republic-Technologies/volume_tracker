@@ -46,11 +46,17 @@ jobs:
       run: |
         python scrape.py --source cse --symbol DOCT
     
+    - name: Copy JSON files to dashboard public directory
+      run: |
+        mkdir -p dashboard/public
+        cp trades.json dashboard/public/trades.json
+        cp depth_chart.json dashboard/public/depth_chart.json
+    
     - name: Commit and push updated data files
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add depth_chart.json trades.json
+        git add depth_chart.json trades.json dashboard/public/trades.json dashboard/public/depth_chart.json
         git diff --staged --quiet || git commit -m "Update data files: $(date +'%Y-%m-%d %H:%M:%S UTC')"
         git push
 

@@ -51,3 +51,17 @@ wheels/
 .DS_Store
 Thumbs.db
 
+# React/Node
+dashboard/node_modules/
+dashboard/build/
+dashboard/.pnp
+dashboard/.pnp.js
+dashboard/coverage/
+dashboard/.env.local
+dashboard/.env.development.local
+dashboard/.env.test.local
+dashboard/.env.production.local
+dashboard/npm-debug.log*
+dashboard/yarn-debug.log*
+dashboard/yarn-error.log*
+
