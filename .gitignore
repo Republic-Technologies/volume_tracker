@@ -1,0 +1,54 @@
+# Output files
+*_trades.json
+*_trades.csv
+doct_trades.csv
+depth_chart.json
+depth_chart.csv
+*_debug_table.html
+trades.json
+
+# Secrets and authentication
+secrets.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Playwright
+.playwright/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebooks
+*.ipynb
+
+# OS
+.DS_Store
+Thumbs.db
+
