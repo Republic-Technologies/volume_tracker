@@ -2,10 +2,9 @@
 *_trades.json
 *_trades.csv
 doct_trades.csv
-depth_chart.json
 depth_chart.csv
 *_debug_table.html
-trades.json
+# Note: depth_chart.json and trades.json are tracked as database files
 
 # Secrets and authentication
 secrets.json
