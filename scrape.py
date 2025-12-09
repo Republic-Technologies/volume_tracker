@@ -561,7 +561,7 @@ def scrape_stockwatch_trades(symbol: str = "DOCT", date: str = None) -> List[Dic
         
         with sync_playwright() as p:
             # Launch browser in visible mode for debugging
-            browser = p.chromium.launch(headless=False, slow_mo=500)
+            browser = p.chromium.launch(headless=True, slow_mo=500)
             context = browser.new_context()
             page = context.new_page()
             
