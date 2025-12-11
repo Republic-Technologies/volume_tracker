@@ -4,6 +4,26 @@
  */
 
 /**
+ * Get data version for cache-busting
+ * Falls back to timestamp if version file doesn't exist
+ * @returns {Promise<string>} Version string for cache-busting
+ */
+const getDataVersion = async () => {
+  try {
+    const publicUrl = process.env.PUBLIC_URL || '';
+    const response = await fetch(`${publicUrl}/data-version.json?v=${Date.now()}`);
+    if (response.ok) {
+      const versionData = await response.json();
+      return versionData.version || Date.now().toString();
+    }
+  } catch (error) {
+    console.warn('Could not load data-version.json, using timestamp fallback');
+  }
+  // Fallback to timestamp if version file doesn't exist
+  return Date.now().toString();
+};
+
+/**
  * Load trades data from JSON file
  * @returns {Promise<Array>} Array of trade objects
  */
@@ -12,8 +32,9 @@ export const loadTradesData = async () => {
     // Use PUBLIC_URL to handle both development and production paths
     // In development, PUBLIC_URL is empty string, in production it's the homepage path
     const publicUrl = process.env.PUBLIC_URL || '';
-    // Add cache-busting query parameter to ensure fresh data
-    const cacheBuster = `?v=${Date.now()}`;
+    // Get version for cache-busting (updates when scraper runs)
+    const version = await getDataVersion();
+    const cacheBuster = `?v=${version}`;
     const response = await fetch(`${publicUrl}/trades.json${cacheBuster}`);
     
     if (!response.ok) {
@@ -29,16 +50,38 @@ export const loadTradesData = async () => {
 };
 
 /**
+ * Filter depth chart data to only include entries from the most recent date
+ * @param {Array} depthData - Array of depth chart objects with timestamp field
+ * @returns {Array} Filtered array containing only the most recent date's entries
+ */
+export const filterDepthChartByMostRecentDate = (depthData) => {
+  if (!depthData || depthData.length === 0) {
+    return [];
+  }
+  
+  // Extract all unique dates and find the most recent one
+  const dates = [...new Set(depthData.map(entry => entry.timestamp))];
+  // Sort dates in descending order (most recent first)
+  dates.sort((a, b) => b.localeCompare(a));
+  const mostRecentDate = dates[0];
+  
+  // Filter to only include entries from the most recent date
+  return depthData.filter(entry => entry.timestamp === mostRecentDate);
+};
+
+/**
  * Load depth chart data from JSON file
- * @returns {Promise<Array>} Array of depth chart objects
+ * Only returns data from the most recent date
+ * @returns {Promise<Array>} Array of depth chart objects from the most recent date
  */
 export const loadDepthChartData = async () => {
   try {
     // Use PUBLIC_URL to handle both development and production paths
     // In development, PUBLIC_URL is empty string, in production it's the homepage path
     const publicUrl = process.env.PUBLIC_URL || '';
-    // Add cache-busting query parameter to ensure fresh data
-    const cacheBuster = `?v=${Date.now()}`;
+    // Get version for cache-busting (updates when scraper runs)
+    const version = await getDataVersion();
+    const cacheBuster = `?v=${version}`;
     const response = await fetch(`${publicUrl}/depth_chart.json${cacheBuster}`);
     
     if (!response.ok) {
@@ -46,7 +89,8 @@ export const loadDepthChartData = async () => {
     }
     
     const data = await response.json();
-    return data;
+    // Filter to only show the most recent date
+    return filterDepthChartByMostRecentDate(data);
   } catch (error) {
     console.error('Error loading depth chart data:', error);
     return [];

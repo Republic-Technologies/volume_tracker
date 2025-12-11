@@ -52,11 +52,17 @@ jobs:
         cp trades.json dashboard/public/trades.json
         cp depth_chart.json dashboard/public/depth_chart.json
     
+    - name: Create data version file for cache-busting
+      run: |
+        # Create a version file with current timestamp to force cache refresh
+        echo "{\"version\": \"$(date +%s)\", \"updated\": \"$(date -u +'%Y-%m-%d %H:%M:%S UTC')\"}" > dashboard/public/data-version.json
+        cat dashboard/public/data-version.json
+    
     - name: Commit and push updated data files
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add depth_chart.json trades.json dashboard/public/trades.json dashboard/public/depth_chart.json
+        git add depth_chart.json trades.json dashboard/public/trades.json dashboard/public/depth_chart.json dashboard/public/data-version.json
         git diff --staged --quiet || git commit -m "Update data files: $(date +'%Y-%m-%d %H:%M:%S UTC')"
         git push
 
