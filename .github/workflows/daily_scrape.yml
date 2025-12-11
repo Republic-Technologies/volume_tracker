@@ -2,8 +2,13 @@ name: Daily Data Scrape
 
 on:
   schedule:
-    # Run daily at 6:00 AM UTC (adjust timezone as needed)
-    - cron: '0 6 * * *'
+    # Run three times daily (Eastern Time, EDT = UTC-4):
+    # 1. Before 9am ET (8:30am EDT = 12:30 UTC)
+    - cron: '30 12 * * *'
+    # 2. At 1pm ET (1pm EDT = 17:00 UTC)
+    - cron: '0 17 * * *'
+    # 3. At 5pm ET (5pm EDT = 21:00 UTC)
+    - cron: '0 21 * * *'
   workflow_dispatch:  # Allow manual triggering
 
 jobs:
