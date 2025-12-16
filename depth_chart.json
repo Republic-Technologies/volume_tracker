@@ -1318,5 +1318,115 @@
     "ask_price": 0.38,
     "bid_size": 2000,
     "ask_size": 5000
+  },
+  {
+    "timestamp": "2025-12-16",
+    "price": 0.3,
+    "volume": 2000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Anonymous",
+    "bid_price": 0.3,
+    "ask_price": 0.32,
+    "bid_size": 2000,
+    "ask_size": 5000
+  },
+  {
+    "timestamp": "2025-12-16",
+    "price": 0.295,
+    "volume": 2500,
+    "buyer_broker": "Research Capital Corporation",
+    "seller_broker": "Anonymous",
+    "bid_price": 0.295,
+    "ask_price": 0.34,
+    "bid_size": 2500,
+    "ask_size": 7000
+  },
+  {
+    "timestamp": "2025-12-16",
+    "price": 0.29,
+    "volume": 2000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "TD Securities Inc.",
+    "bid_price": 0.29,
+    "ask_price": 0.35,
+    "bid_size": 2000,
+    "ask_size": 25000
+  },
+  {
+    "timestamp": "2025-12-16",
+    "price": 0.275,
+    "volume": 5000,
+    "buyer_broker": "Research Capital Corporation",
+    "seller_broker": "RBC Capital Markets",
+    "bid_price": 0.275,
+    "ask_price": 0.36,
+    "bid_size": 5000,
+    "ask_size": 5000
+  },
+  {
+    "timestamp": "2025-12-16",
+    "price": 0.27,
+    "volume": 1000,
+    "buyer_broker": "Anonymous",
+    "seller_broker": "RBC Capital Markets",
+    "bid_price": 0.27,
+    "ask_price": 0.36,
+    "bid_size": 1000,
+    "ask_size": 30000
+  },
+  {
+    "timestamp": "2025-12-16",
+    "price": 0.27,
+    "volume": 2000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Questrade Inc.",
+    "bid_price": 0.27,
+    "ask_price": 0.36,
+    "bid_size": 2000,
+    "ask_size": 2000
+  },
+  {
+    "timestamp": "2025-12-16",
+    "price": 0.265,
+    "volume": 1000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "TD Securities Inc.",
+    "bid_price": 0.265,
+    "ask_price": 0.37,
+    "bid_size": 1000,
+    "ask_size": 8500
+  },
+  {
+    "timestamp": "2025-12-16",
+    "price": 0.26,
+    "volume": 2000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "RBC Capital Markets",
+    "bid_price": 0.26,
+    "ask_price": 0.37,
+    "bid_size": 2000,
+    "ask_size": 5000
+  },
+  {
+    "timestamp": "2025-12-16",
+    "price": 0.25,
+    "volume": 1000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "National Bank Financial Inc.",
+    "bid_price": 0.25,
+    "ask_price": 0.38,
+    "bid_size": 1000,
+    "ask_size": 6000
+  },
+  {
+    "timestamp": "2025-12-16",
+    "price": 0.23,
+    "volume": 2000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "RBC Capital Markets",
+    "bid_price": 0.23,
+    "ask_price": 0.38,
+    "bid_size": 2000,
+    "ask_size": 5000
   }
 ]
