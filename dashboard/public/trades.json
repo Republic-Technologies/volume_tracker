@@ -8914,5 +8914,53 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20251217"
+  },
+  {
+    "time_et": "10:27:24",
+    "exchange": "M",
+    "price": 0.28,
+    "change": 0.02,
+    "volume": 150,
+    "buyer": "1 Anonymous",
+    "seller": "39 Merrill Lynch",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20251218"
+  },
+  {
+    "time_et": "10:27:24",
+    "exchange": "C",
+    "price": 0.28,
+    "change": 0.02,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "39 Merrill Lynch",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20251218"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "D",
+    "price": 0.27,
+    "change": 0.09,
+    "volume": 1,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20251218"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "D",
+    "price": 0.27,
+    "change": 0.09,
+    "volume": 31,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20251218"
   }
 ]
