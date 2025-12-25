@@ -3067,5 +3067,115 @@
     "ask_price": 0.39,
     "bid_size": 5000,
     "ask_size": 1000
+  },
+  {
+    "timestamp": "2025-12-25",
+    "price": 0.23,
+    "volume": 1000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Anonymous",
+    "bid_price": 0.23,
+    "ask_price": 0.24,
+    "bid_size": 1000,
+    "ask_size": 8500
+  },
+  {
+    "timestamp": "2025-12-25",
+    "price": 0.22,
+    "volume": 1000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Anonymous",
+    "bid_price": 0.22,
+    "ask_price": 0.26,
+    "bid_size": 1000,
+    "ask_size": 10000
+  },
+  {
+    "timestamp": "2025-12-25",
+    "price": 0.21,
+    "volume": 8500,
+    "buyer_broker": "RBC Capital Markets",
+    "seller_broker": "RBC Capital Markets",
+    "bid_price": 0.21,
+    "ask_price": 0.26,
+    "bid_size": 8500,
+    "ask_size": 5000
+  },
+  {
+    "timestamp": "2025-12-25",
+    "price": 0.21,
+    "volume": 1000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Anonymous",
+    "bid_price": 0.21,
+    "ask_price": 0.27,
+    "bid_size": 1000,
+    "ask_size": 1000
+  },
+  {
+    "timestamp": "2025-12-25",
+    "price": 0.2,
+    "volume": 1500,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Interactive Brokers Canada Inc.",
+    "bid_price": 0.2,
+    "ask_price": 0.34,
+    "bid_size": 1500,
+    "ask_size": 1000
+  },
+  {
+    "timestamp": "2025-12-25",
+    "price": 0.19,
+    "volume": 1000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "TD Securities Inc.",
+    "bid_price": 0.19,
+    "ask_price": 0.35,
+    "bid_size": 1000,
+    "ask_size": 25000
+  },
+  {
+    "timestamp": "2025-12-25",
+    "price": 0.19,
+    "volume": 5000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Interactive Brokers Canada Inc.",
+    "bid_price": 0.19,
+    "ask_price": 0.35,
+    "bid_size": 5000,
+    "ask_size": 1000
+  },
+  {
+    "timestamp": "2025-12-25",
+    "price": 0.18,
+    "volume": 5000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "RBC Capital Markets",
+    "bid_price": 0.18,
+    "ask_price": 0.36,
+    "bid_size": 5000,
+    "ask_size": 30000
+  },
+  {
+    "timestamp": "2025-12-25",
+    "price": 0.17,
+    "volume": 1000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "TD Securities Inc.",
+    "bid_price": 0.17,
+    "ask_price": 0.38,
+    "bid_size": 1000,
+    "ask_size": 18500
+  },
+  {
+    "timestamp": "2025-12-25",
+    "price": 0.17,
+    "volume": 5000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Interactive Brokers Canada Inc.",
+    "bid_price": 0.17,
+    "ask_price": 0.39,
+    "bid_size": 5000,
+    "ask_size": 1000
   }
 ]
