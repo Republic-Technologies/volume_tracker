@@ -11290,5 +11290,77 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20251231"
+  },
+  {
+    "time_et": "14:11:42",
+    "exchange": "D",
+    "price": 0.23,
+    "change": 0.13,
+    "volume": 136,
+    "buyer": "124 Questrade",
+    "seller": "1 Anonymous",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260102"
+  },
+  {
+    "time_et": "13:02:05",
+    "exchange": "M",
+    "price": 0.23,
+    "change": 0.01,
+    "volume": 141,
+    "buyer": "7 TD Sec",
+    "seller": "7 TD Sec",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260102"
+  },
+  {
+    "time_et": "09:30:05",
+    "exchange": "M",
+    "price": 0.22,
+    "change": null,
+    "volume": 125,
+    "buyer": "7 TD Sec",
+    "seller": "39 Merrill Lynch",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260102"
+  },
+  {
+    "time_et": "09:30:05",
+    "exchange": "C",
+    "price": 0.22,
+    "change": null,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "39 Merrill Lynch",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260102"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.225,
+    "change": 0.005,
+    "volume": 475,
+    "buyer": "36 Latimer",
+    "seller": "57 Interactive",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260102"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.225,
+    "change": 0.005,
+    "volume": 1000,
+    "buyer": "1 Anonymous",
+    "seller": "57 Interactive",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260102"
   }
 ]
