@@ -11362,5 +11362,101 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260102"
+  },
+  {
+    "time_et": "15:46:21",
+    "exchange": "H",
+    "price": 0.23,
+    "change": 0.01,
+    "volume": 500,
+    "buyer": "1 Anonymous",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260105"
+  },
+  {
+    "time_et": "09:50:34",
+    "exchange": "C",
+    "price": 0.22,
+    "change": null,
+    "volume": 300,
+    "buyer": "36 Latimer",
+    "seller": "9 BMO Nesbitt",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260105"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.235,
+    "change": 0.015,
+    "volume": 100,
+    "buyer": "7 TD Sec",
+    "seller": "36 Latimer",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260105"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.22,
+    "change": null,
+    "volume": 1500,
+    "buyer": "84 ITG84",
+    "seller": "2 RBC",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260105"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "D",
+    "price": 0.22,
+    "change": 0.13,
+    "volume": 58,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260105"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.22,
+    "change": null,
+    "volume": 1500,
+    "buyer": "84 ITG84",
+    "seller": "85 Scotia",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260105"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.22,
+    "change": null,
+    "volume": 1000,
+    "buyer": "84 ITG84",
+    "seller": "85 Scotia",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260105"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.22,
+    "change": null,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "85 Scotia",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260105"
   }
 ]
