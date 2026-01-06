@@ -4970,5 +4970,115 @@
     "ask_price": 0.38,
     "bid_size": 1000,
     "ask_size": 6000
+  },
+  {
+    "timestamp": "2026-01-06",
+    "price": 0.25,
+    "volume": 1000,
+    "buyer_broker": "Anonymous",
+    "seller_broker": "Anonymous",
+    "bid_price": 0.25,
+    "ask_price": 0.29,
+    "bid_size": 1000,
+    "ask_size": 1000
+  },
+  {
+    "timestamp": "2026-01-06",
+    "price": 0.25,
+    "volume": 500,
+    "buyer_broker": "TD Securities Inc.",
+    "seller_broker": "National Bank Financial Inc.",
+    "bid_price": 0.25,
+    "ask_price": 0.3,
+    "bid_size": 500,
+    "ask_size": 20000
+  },
+  {
+    "timestamp": "2026-01-06",
+    "price": 0.24,
+    "volume": 1000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "RBC Capital Markets",
+    "bid_price": 0.24,
+    "ask_price": 0.3,
+    "bid_size": 1000,
+    "ask_size": 30000
+  },
+  {
+    "timestamp": "2026-01-06",
+    "price": 0.235,
+    "volume": 500,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "RBC Capital Markets",
+    "bid_price": 0.235,
+    "ask_price": 0.32,
+    "bid_size": 500,
+    "ask_size": 16000
+  },
+  {
+    "timestamp": "2026-01-06",
+    "price": 0.235,
+    "volume": 1000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "RBC Capital Markets",
+    "bid_price": 0.235,
+    "ask_price": 0.32,
+    "bid_size": 1000,
+    "ask_size": 24000
+  },
+  {
+    "timestamp": "2026-01-06",
+    "price": 0.23,
+    "volume": 1000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Interactive Brokers Canada Inc.",
+    "bid_price": 0.23,
+    "ask_price": 0.34,
+    "bid_size": 1000,
+    "ask_size": 1000
+  },
+  {
+    "timestamp": "2026-01-06",
+    "price": 0.225,
+    "volume": 1000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "TD Securities Inc.",
+    "bid_price": 0.225,
+    "ask_price": 0.35,
+    "bid_size": 1000,
+    "ask_size": 25000
+  },
+  {
+    "timestamp": "2026-01-06",
+    "price": 0.22,
+    "volume": 500,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Interactive Brokers Canada Inc.",
+    "bid_price": 0.22,
+    "ask_price": 0.35,
+    "bid_size": 500,
+    "ask_size": 1000
+  },
+  {
+    "timestamp": "2026-01-06",
+    "price": 0.22,
+    "volume": 2000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "TD Securities Inc.",
+    "bid_price": 0.22,
+    "ask_price": 0.38,
+    "bid_size": 2000,
+    "ask_size": 18500
+  },
+  {
+    "timestamp": "2026-01-06",
+    "price": 0.215,
+    "volume": 1000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "National Bank Financial Inc.",
+    "bid_price": 0.215,
+    "ask_price": 0.38,
+    "bid_size": 1000,
+    "ask_size": 6000
   }
 ]
