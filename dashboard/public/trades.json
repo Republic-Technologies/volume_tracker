@@ -12526,5 +12526,41 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260108"
+  },
+  {
+    "time_et": "11:41:29",
+    "exchange": "C",
+    "price": 0.25,
+    "change": null,
+    "volume": 500,
+    "buyer": "7 TD Sec",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260109"
+  },
+  {
+    "time_et": "11:41:29",
+    "exchange": "C",
+    "price": 0.25,
+    "change": null,
+    "volume": 2000,
+    "buyer": "7 TD Sec",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260109"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.25,
+    "change": null,
+    "volume": 2000,
+    "buyer": "84 ITG84",
+    "seller": "79 CIBC",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260109"
   }
 ]
