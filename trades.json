@@ -13438,5 +13438,113 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260114"
+  },
+  {
+    "time_et": "15:14:42",
+    "exchange": "M",
+    "price": 0.25,
+    "change": null,
+    "volume": 48,
+    "buyer": "1 Anonymous",
+    "seller": "39 Merrill Lynch",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260115"
+  },
+  {
+    "time_et": "14:54:00",
+    "exchange": "M",
+    "price": 0.255,
+    "change": 0.005,
+    "volume": 393,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260115"
+  },
+  {
+    "time_et": "13:39:50",
+    "exchange": "M",
+    "price": 0.255,
+    "change": 0.005,
+    "volume": 99,
+    "buyer": "7 TD Sec",
+    "seller": "7 TD Sec",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260115"
+  },
+  {
+    "time_et": "12:55:20",
+    "exchange": "C",
+    "price": 0.25,
+    "change": null,
+    "volume": 1000,
+    "buyer": "84 ITG84",
+    "seller": "79 CIBC",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260115"
+  },
+  {
+    "time_et": "12:54:51",
+    "exchange": "C",
+    "price": 0.245,
+    "change": -0.005,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260115"
+  },
+  {
+    "time_et": "12:54:24",
+    "exchange": "O",
+    "price": 0.235,
+    "change": -0.015,
+    "volume": 500,
+    "buyer": "1 Anonymous",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260115"
+  },
+  {
+    "time_et": "12:54:24",
+    "exchange": "C",
+    "price": 0.24,
+    "change": -0.01,
+    "volume": 2000,
+    "buyer": "84 ITG84",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260115"
+  },
+  {
+    "time_et": "12:54:24",
+    "exchange": "C",
+    "price": 0.245,
+    "change": -0.005,
+    "volume": 1000,
+    "buyer": "84 ITG84",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260115"
+  },
+  {
+    "time_et": "12:54:24",
+    "exchange": "C",
+    "price": 0.25,
+    "change": null,
+    "volume": 18000,
+    "buyer": "84 ITG84",
+    "seller": "79 CIBC",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260115"
   }
 ]
