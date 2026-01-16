@@ -6840,5 +6840,115 @@
     "ask_price": 0.34,
     "bid_size": 200000,
     "ask_size": 1000
+  },
+  {
+    "timestamp": "2026-01-16",
+    "price": 0.25,
+    "volume": 2000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Interactive Brokers Canada Inc.",
+    "bid_price": 0.25,
+    "ask_price": 0.255,
+    "bid_size": 2000,
+    "ask_size": 60000
+  },
+  {
+    "timestamp": "2026-01-16",
+    "price": 0.24,
+    "volume": 2000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Anonymous",
+    "bid_price": 0.24,
+    "ask_price": 0.295,
+    "bid_size": 2000,
+    "ask_size": 1000
+  },
+  {
+    "timestamp": "2026-01-16",
+    "price": 0.23,
+    "volume": 8000,
+    "buyer_broker": "Research Capital Corporation",
+    "seller_broker": "National Bank Financial Inc.",
+    "bid_price": 0.23,
+    "ask_price": 0.3,
+    "bid_size": 8000,
+    "ask_size": 20000
+  },
+  {
+    "timestamp": "2026-01-16",
+    "price": 0.23,
+    "volume": 2000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "RBC Capital Markets",
+    "bid_price": 0.23,
+    "ask_price": 0.3,
+    "bid_size": 2000,
+    "ask_size": 30000
+  },
+  {
+    "timestamp": "2026-01-16",
+    "price": 0.22,
+    "volume": 10000,
+    "buyer_broker": "Research Capital Corporation",
+    "seller_broker": "Anonymous",
+    "bid_price": 0.22,
+    "ask_price": 0.31,
+    "bid_size": 10000,
+    "ask_size": 15000
+  },
+  {
+    "timestamp": "2026-01-16",
+    "price": 0.215,
+    "volume": 11000,
+    "buyer_broker": "Research Capital Corporation",
+    "seller_broker": "RBC Capital Markets",
+    "bid_price": 0.215,
+    "ask_price": 0.32,
+    "bid_size": 11000,
+    "ask_size": 5000
+  },
+  {
+    "timestamp": "2026-01-16",
+    "price": 0.21,
+    "volume": 2000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "RBC Capital Markets",
+    "bid_price": 0.21,
+    "ask_price": 0.32,
+    "bid_size": 2000,
+    "ask_size": 40000
+  },
+  {
+    "timestamp": "2026-01-16",
+    "price": 0.21,
+    "volume": 5000,
+    "buyer_broker": "Research Capital Corporation",
+    "seller_broker": "Interactive Brokers Canada Inc.",
+    "bid_price": 0.21,
+    "ask_price": 0.34,
+    "bid_size": 5000,
+    "ask_size": 1000
+  },
+  {
+    "timestamp": "2026-01-16",
+    "price": 0.21,
+    "volume": 5000,
+    "buyer_broker": "Canaccord Capital Corporation",
+    "seller_broker": "TD Securities Inc.",
+    "bid_price": 0.21,
+    "ask_price": 0.35,
+    "bid_size": 5000,
+    "ask_size": 25000
+  },
+  {
+    "timestamp": "2026-01-16",
+    "price": 0.205,
+    "volume": 1000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "TD Securities Inc.",
+    "bid_price": 0.205,
+    "ask_price": 0.38,
+    "bid_size": 1000,
+    "ask_size": 18500
   }
 ]
