@@ -16054,5 +16054,77 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260126"
+  },
+  {
+    "time_et": "15:35:27",
+    "exchange": "M",
+    "price": 0.22,
+    "change": null,
+    "volume": 433,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260127"
+  },
+  {
+    "time_et": "13:30:11",
+    "exchange": "H",
+    "price": 0.225,
+    "change": 0.005,
+    "volume": 1000,
+    "buyer": "124 Questrade",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260127"
+  },
+  {
+    "time_et": "13:30:11",
+    "exchange": "C",
+    "price": 0.22,
+    "change": null,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260127"
+  },
+  {
+    "time_et": "13:03:58",
+    "exchange": "C",
+    "price": 0.22,
+    "change": null,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "7 TD Sec",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260127"
+  },
+  {
+    "time_et": "12:26:31",
+    "exchange": "H",
+    "price": 0.225,
+    "change": 0.005,
+    "volume": 1000,
+    "buyer": "80 National Bank",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260127"
+  },
+  {
+    "time_et": "10:18:29",
+    "exchange": "C",
+    "price": 0.225,
+    "change": 0.005,
+    "volume": 1000,
+    "buyer": "84 ITG84",
+    "seller": "79 CIBC",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260127"
   }
 ]
