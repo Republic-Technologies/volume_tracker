@@ -16366,5 +16366,77 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260128"
+  },
+  {
+    "time_et": "15:43:52",
+    "exchange": "C",
+    "price": 0.215,
+    "change": null,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260129"
+  },
+  {
+    "time_et": "15:43:52",
+    "exchange": "U",
+    "price": 0.22,
+    "change": 0.005,
+    "volume": 500,
+    "buyer": "1 Anonymous",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260129"
+  },
+  {
+    "time_et": "15:43:52",
+    "exchange": "C",
+    "price": 0.22,
+    "change": 0.005,
+    "volume": 500,
+    "buyer": "1 Anonymous",
+    "seller": "57 Interactive",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260129"
+  },
+  {
+    "time_et": "15:36:55",
+    "exchange": "C",
+    "price": 0.22,
+    "change": 0.005,
+    "volume": 1500,
+    "buyer": "7 TD Sec",
+    "seller": "57 Interactive",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260129"
+  },
+  {
+    "time_et": "15:12:45",
+    "exchange": "D",
+    "price": 0.215,
+    "change": 0.025,
+    "volume": 250,
+    "buyer": "7 TD Sec",
+    "seller": "88 Credential",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260129"
+  },
+  {
+    "time_et": "13:59:54",
+    "exchange": "C",
+    "price": 0.215,
+    "change": null,
+    "volume": 125,
+    "buyer": "36 Latimer",
+    "seller": "39 Merrill Lynch",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260129"
   }
 ]
