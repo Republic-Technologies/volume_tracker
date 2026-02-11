@@ -18370,5 +18370,113 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260210"
+  },
+  {
+    "time_et": "15:52:51",
+    "exchange": "M",
+    "price": 0.2,
+    "change": null,
+    "volume": 3,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260211"
+  },
+  {
+    "time_et": "14:41:47",
+    "exchange": "M",
+    "price": 0.2,
+    "change": null,
+    "volume": 473,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260211"
+  },
+  {
+    "time_et": "10:51:00",
+    "exchange": "C",
+    "price": 0.2,
+    "change": null,
+    "volume": 500,
+    "buyer": "80 National Bank",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260211"
+  },
+  {
+    "time_et": "09:52:46",
+    "exchange": "C",
+    "price": 0.195,
+    "change": -0.005,
+    "volume": 150,
+    "buyer": "36 Latimer",
+    "seller": "85 Scotia",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260211"
+  },
+  {
+    "time_et": "09:52:46",
+    "exchange": "H",
+    "price": 0.195,
+    "change": -0.005,
+    "volume": 500,
+    "buyer": "1 Anonymous",
+    "seller": "85 Scotia",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260211"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.195,
+    "change": -0.005,
+    "volume": 50,
+    "buyer": "36 Latimer",
+    "seller": "9 BMO Nesbitt",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260211"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.195,
+    "change": -0.005,
+    "volume": 10,
+    "buyer": "36 Latimer",
+    "seller": "7 TD Sec",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260211"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "M",
+    "price": 0.195,
+    "change": -0.005,
+    "volume": 5,
+    "buyer": "1 Anonymous",
+    "seller": "14 Virtu ITG",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260211"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.195,
+    "change": -0.005,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "9 BMO Nesbitt",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260211"
   }
 ]
