@@ -22210,5 +22210,65 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260310"
+  },
+  {
+    "time_et": "15:06:19",
+    "exchange": "O",
+    "price": 0.19,
+    "change": null,
+    "volume": 1000,
+    "buyer": "1 Anonymous",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260311"
+  },
+  {
+    "time_et": "10:25:35",
+    "exchange": "H",
+    "price": 0.19,
+    "change": null,
+    "volume": 500,
+    "buyer": "1 Anonymous",
+    "seller": "85 Scotia",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260311"
+  },
+  {
+    "time_et": "10:25:35",
+    "exchange": "C",
+    "price": 0.19,
+    "change": null,
+    "volume": 1000,
+    "buyer": "57 Interactive",
+    "seller": "85 Scotia",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260311"
+  },
+  {
+    "time_et": "10:25:35",
+    "exchange": "C",
+    "price": 0.19,
+    "change": null,
+    "volume": 2000,
+    "buyer": "84 ITG84",
+    "seller": "85 Scotia",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260311"
+  },
+  {
+    "time_et": "10:25:35",
+    "exchange": "O",
+    "price": 0.19,
+    "change": null,
+    "volume": 500,
+    "buyer": "1 Anonymous",
+    "seller": "85 Scotia",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260311"
   }
 ]
