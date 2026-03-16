@@ -22678,5 +22678,65 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260316"
+  },
+  {
+    "time_et": "15:54:19",
+    "exchange": "D",
+    "price": 0.18,
+    "change": 0.06,
+    "volume": 174,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260316"
+  },
+  {
+    "time_et": "15:54:19",
+    "exchange": "C",
+    "price": 0.18,
+    "change": null,
+    "volume": 2000,
+    "buyer": "84 ITG84",
+    "seller": "2 RBC",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260316"
+  },
+  {
+    "time_et": "13:47:41",
+    "exchange": "H",
+    "price": 0.19,
+    "change": 0.01,
+    "volume": 500,
+    "buyer": "80 National Bank",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260316"
+  },
+  {
+    "time_et": "12:25:08",
+    "exchange": "C",
+    "price": 0.19,
+    "change": 0.01,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "57 Interactive",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260316"
+  },
+  {
+    "time_et": "11:13:48",
+    "exchange": "C",
+    "price": 0.19,
+    "change": 0.01,
+    "volume": 2000,
+    "buyer": "7 TD Sec",
+    "seller": "57 Interactive",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260316"
   }
 ]
