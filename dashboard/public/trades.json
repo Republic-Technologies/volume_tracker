@@ -22738,5 +22738,41 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260316"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.175,
+    "change": -0.005,
+    "volume": 100,
+    "buyer": "36 Latimer",
+    "seller": "79 CIBC",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260317"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.18,
+    "change": null,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260317"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.18,
+    "change": null,
+    "volume": 1500,
+    "buyer": "84 ITG84",
+    "seller": "79 CIBC",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260317"
   }
 ]
