@@ -23590,5 +23590,41 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260318"
+  },
+  {
+    "time_et": "15:51:31",
+    "exchange": "M",
+    "price": 0.17,
+    "change": 0.005,
+    "volume": 5,
+    "buyer": "80 National Bank",
+    "seller": "79 CIBC",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260318"
+  },
+  {
+    "time_et": "12:18:31",
+    "exchange": "M",
+    "price": 0.18,
+    "change": 0.015,
+    "volume": 300,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260318"
+  },
+  {
+    "time_et": "11:05:40",
+    "exchange": "M",
+    "price": 0.175,
+    "change": 0.01,
+    "volume": 1000,
+    "buyer": "124 Questrade",
+    "seller": "1 Anonymous",
+    "markers": "",
+    "symbol": "DOCT",
+    "date": "20260318"
   }
 ]
