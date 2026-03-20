@@ -23854,5 +23854,77 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260319"
+  },
+  {
+    "time_et": "15:35:00",
+    "exchange": "H",
+    "price": 0.18,
+    "change": 0.02,
+    "volume": 2000,
+    "buyer": "1 Anonymous",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260320"
+  },
+  {
+    "time_et": "12:04:41",
+    "exchange": "M",
+    "price": 0.18,
+    "change": 0.02,
+    "volume": 28,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260320"
+  },
+  {
+    "time_et": "09:46:31",
+    "exchange": "C",
+    "price": 0.17,
+    "change": 0.01,
+    "volume": 55,
+    "buyer": "36 Latimer",
+    "seller": "19 Desjardins",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260320"
+  },
+  {
+    "time_et": "09:46:31",
+    "exchange": "C",
+    "price": 0.17,
+    "change": 0.01,
+    "volume": 500,
+    "buyer": "19 Desjardins",
+    "seller": "19 Desjardins",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260320"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.17,
+    "change": 0.01,
+    "volume": 500,
+    "buyer": "19 Desjardins",
+    "seller": "19 Desjardins",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260320"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.17,
+    "change": 0.01,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "80 National Bank",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260320"
   }
 ]
