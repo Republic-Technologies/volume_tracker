@@ -24082,5 +24082,41 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260324"
+  },
+  {
+    "time_et": "14:39:36",
+    "exchange": "C",
+    "price": 0.175,
+    "change": null,
+    "volume": 197,
+    "buyer": "36 Latimer",
+    "seller": "85 Scotia",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260324"
+  },
+  {
+    "time_et": "14:39:36",
+    "exchange": "C",
+    "price": 0.175,
+    "change": null,
+    "volume": 1500,
+    "buyer": "84 ITG84",
+    "seller": "85 Scotia",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260324"
+  },
+  {
+    "time_et": "11:36:14",
+    "exchange": "D",
+    "price": 0.175,
+    "change": 0.065,
+    "volume": 250,
+    "buyer": "1 Anonymous",
+    "seller": "2 RBC",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260324"
   }
 ]
