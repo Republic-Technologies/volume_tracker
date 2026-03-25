@@ -24118,5 +24118,65 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260324"
+  },
+  {
+    "time_et": "09:30:31",
+    "exchange": "H",
+    "price": 0.17,
+    "change": -0.005,
+    "volume": 2000,
+    "buyer": "84 ITG84",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260325"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.17,
+    "change": -0.005,
+    "volume": 500,
+    "buyer": "19 Desjardins",
+    "seller": "57 Interactive",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260325"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.17,
+    "change": -0.005,
+    "volume": 1500,
+    "buyer": "84 ITG84",
+    "seller": "57 Interactive",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260325"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.175,
+    "change": null,
+    "volume": 1000,
+    "buyer": "84 ITG84",
+    "seller": "57 Interactive",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260325"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.175,
+    "change": null,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "57 Interactive",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260325"
   }
 ]
