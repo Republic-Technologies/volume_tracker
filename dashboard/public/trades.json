@@ -24250,5 +24250,53 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260326"
+  },
+  {
+    "time_et": "15:38:39",
+    "exchange": "M",
+    "price": 0.165,
+    "change": -0.005,
+    "volume": 1,
+    "buyer": "7 TD Sec",
+    "seller": "1 Anonymous",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260326"
+  },
+  {
+    "time_et": "10:26:27",
+    "exchange": "H",
+    "price": 0.17,
+    "change": null,
+    "volume": 500,
+    "buyer": "80 National Bank",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260326"
+  },
+  {
+    "time_et": "10:26:27",
+    "exchange": "M",
+    "price": 0.17,
+    "change": null,
+    "volume": 99,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260326"
+  },
+  {
+    "time_et": "10:01:02",
+    "exchange": "M",
+    "price": 0.165,
+    "change": -0.005,
+    "volume": 250,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260326"
   }
 ]
