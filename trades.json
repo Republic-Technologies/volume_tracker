@@ -24226,5 +24226,29 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260325"
+  },
+  {
+    "time_et": "09:39:34",
+    "exchange": "C",
+    "price": 0.17,
+    "change": null,
+    "volume": 38,
+    "buyer": "36 Latimer",
+    "seller": "124 Questrade",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260326"
+  },
+  {
+    "time_et": "09:39:34",
+    "exchange": "C",
+    "price": 0.17,
+    "change": null,
+    "volume": 1000,
+    "buyer": "84 ITG84",
+    "seller": "124 Questrade",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260326"
   }
 ]
