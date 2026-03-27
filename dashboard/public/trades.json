@@ -24298,5 +24298,29 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260326"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.17,
+    "change": null,
+    "volume": 335,
+    "buyer": "36 Latimer",
+    "seller": "9 BMO Nesbitt",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260327"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.17,
+    "change": null,
+    "volume": 200,
+    "buyer": "36 Latimer",
+    "seller": "19 Desjardins",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260327"
   }
 ]
