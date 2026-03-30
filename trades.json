@@ -24370,5 +24370,41 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260327"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.18,
+    "change": 0.01,
+    "volume": 45,
+    "buyer": "7 TD Sec",
+    "seller": "19 Desjardins",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260330"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.18,
+    "change": 0.01,
+    "volume": 55,
+    "buyer": "7 TD Sec",
+    "seller": "19 Desjardins",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260330"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "D",
+    "price": 0.18,
+    "change": 0.07,
+    "volume": 56,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260330"
   }
 ]
