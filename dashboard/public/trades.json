@@ -24406,5 +24406,77 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260330"
+  },
+  {
+    "time_et": "15:41:01",
+    "exchange": "O",
+    "price": 0.18,
+    "change": 0.01,
+    "volume": 1000,
+    "buyer": "1 Anonymous",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260330"
+  },
+  {
+    "time_et": "15:41:01",
+    "exchange": "H",
+    "price": 0.18,
+    "change": 0.01,
+    "volume": 1000,
+    "buyer": "1 Anonymous",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260330"
+  },
+  {
+    "time_et": "15:41:01",
+    "exchange": "C",
+    "price": 0.18,
+    "change": 0.01,
+    "volume": 500,
+    "buyer": "1 Anonymous",
+    "seller": "7 TD Sec",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260330"
+  },
+  {
+    "time_et": "15:41:01",
+    "exchange": "C",
+    "price": 0.18,
+    "change": 0.01,
+    "volume": 500,
+    "buyer": "1 Anonymous",
+    "seller": "19 Desjardins",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260330"
+  },
+  {
+    "time_et": "12:24:07",
+    "exchange": "D",
+    "price": 0.17,
+    "change": 0.07,
+    "volume": 24,
+    "buyer": "7 TD Sec",
+    "seller": "7 TD Sec",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260330"
+  },
+  {
+    "time_et": "12:04:35",
+    "exchange": "D",
+    "price": 0.18,
+    "change": 0.07,
+    "volume": 41,
+    "buyer": "7 TD Sec",
+    "seller": "7 TD Sec",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260330"
   }
 ]
