@@ -24478,5 +24478,17 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260330"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.17,
+    "change": -0.01,
+    "volume": 20,
+    "buyer": "36 Latimer",
+    "seller": "79 CIBC",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260331"
   }
 ]
