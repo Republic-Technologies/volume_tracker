@@ -24598,5 +24598,17 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260401"
+  },
+  {
+    "time_et": "14:26:54",
+    "exchange": "D",
+    "price": 0.18,
+    "change": 0.05,
+    "volume": 76,
+    "buyer": "1 Anonymous",
+    "seller": "2 RBC",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260402"
   }
 ]
