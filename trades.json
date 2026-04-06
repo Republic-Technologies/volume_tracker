@@ -24634,5 +24634,17 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260406"
+  },
+  {
+    "time_et": "09:54:06",
+    "exchange": "D",
+    "price": 0.18,
+    "change": 0.05,
+    "volume": 16,
+    "buyer": "1 Anonymous",
+    "seller": "7 TD Sec",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260406"
   }
 ]
