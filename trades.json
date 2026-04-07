@@ -24646,5 +24646,53 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260406"
+  },
+  {
+    "time_et": "15:02:22",
+    "exchange": "M",
+    "price": 0.18,
+    "change": -0.01,
+    "volume": 56,
+    "buyer": "7 TD Sec",
+    "seller": "1 Anonymous",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260407"
+  },
+  {
+    "time_et": "12:04:55",
+    "exchange": "M",
+    "price": 0.18,
+    "change": -0.01,
+    "volume": 45,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260407"
+  },
+  {
+    "time_et": "10:05:35",
+    "exchange": "C",
+    "price": 0.18,
+    "change": -0.01,
+    "volume": 500,
+    "buyer": "19 Desjardins",
+    "seller": "57 Interactive",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260407"
+  },
+  {
+    "time_et": "10:05:35",
+    "exchange": "C",
+    "price": 0.18,
+    "change": -0.01,
+    "volume": 1000,
+    "buyer": "84 ITG84",
+    "seller": "57 Interactive",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260407"
   }
 ]
