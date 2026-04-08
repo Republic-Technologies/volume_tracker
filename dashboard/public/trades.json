@@ -24802,5 +24802,113 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260408"
+  },
+  {
+    "time_et": "15:25:41",
+    "exchange": "H",
+    "price": 0.18,
+    "change": null,
+    "volume": 500,
+    "buyer": "7 TD Sec",
+    "seller": "2 RBC",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260408"
+  },
+  {
+    "time_et": "15:25:41",
+    "exchange": "H",
+    "price": 0.18,
+    "change": null,
+    "volume": 500,
+    "buyer": "1 Anonymous",
+    "seller": "2 RBC",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260408"
+  },
+  {
+    "time_et": "15:25:41",
+    "exchange": "C",
+    "price": 0.18,
+    "change": null,
+    "volume": 2000,
+    "buyer": "84 ITG84",
+    "seller": "2 RBC",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260408"
+  },
+  {
+    "time_et": "12:51:23",
+    "exchange": "C",
+    "price": 0.18,
+    "change": null,
+    "volume": 11500,
+    "buyer": "84 ITG84",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260408"
+  },
+  {
+    "time_et": "12:50:55",
+    "exchange": "H",
+    "price": 0.175,
+    "change": -0.005,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260408"
+  },
+  {
+    "time_et": "12:04:30",
+    "exchange": "M",
+    "price": 0.17,
+    "change": -0.01,
+    "volume": 100,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260408"
+  },
+  {
+    "time_et": "11:11:53",
+    "exchange": "H",
+    "price": 0.17,
+    "change": -0.01,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260408"
+  },
+  {
+    "time_et": "11:11:53",
+    "exchange": "C",
+    "price": 0.17,
+    "change": -0.01,
+    "volume": 3000,
+    "buyer": "84 ITG84",
+    "seller": "57 Interactive",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260408"
+  },
+  {
+    "time_et": "11:10:58",
+    "exchange": "C",
+    "price": 0.17,
+    "change": -0.01,
+    "volume": 2000,
+    "buyer": "84 ITG84",
+    "seller": "57 Interactive",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260408"
   }
 ]
