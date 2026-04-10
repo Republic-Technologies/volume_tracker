@@ -25102,5 +25102,29 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260409"
+  },
+  {
+    "time_et": "15:50:42",
+    "exchange": "D",
+    "price": 0.165,
+    "change": 0.07,
+    "volume": 22,
+    "buyer": "80 National Bank",
+    "seller": "14 Virtu ITG",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260410"
+  },
+  {
+    "time_et": "12:04:36",
+    "exchange": "D",
+    "price": 0.18,
+    "change": 0.07,
+    "volume": 28,
+    "buyer": "7 TD Sec",
+    "seller": "1 Anonymous",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260410"
   }
 ]
