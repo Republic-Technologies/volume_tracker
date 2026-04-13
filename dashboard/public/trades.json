@@ -25126,5 +25126,53 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260410"
+  },
+  {
+    "time_et": "09:42:20",
+    "exchange": "C",
+    "price": 0.17,
+    "change": null,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "57 Interactive",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260413"
+  },
+  {
+    "time_et": "09:39:36",
+    "exchange": "D",
+    "price": 0.17,
+    "change": 0.07,
+    "volume": 1,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260413"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "D",
+    "price": 0.165,
+    "change": 0.07,
+    "volume": 11,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260413"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "D",
+    "price": 0.165,
+    "change": 0.07,
+    "volume": 200,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260413"
   }
 ]
