@@ -22735,5 +22735,27 @@
     "ask_price": 0.21,
     "bid_size": 5000,
     "ask_size": 500
+  },
+  {
+    "timestamp": "2026-04-15",
+    "price": 0.155,
+    "volume": 1000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "National Bank Financial Inc.",
+    "bid_price": 0.155,
+    "ask_price": 0.16,
+    "bid_size": 1000,
+    "ask_size": 4500
+  },
+  {
+    "timestamp": "2026-04-15",
+    "price": 0.15,
+    "volume": 5000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Interactive Brokers Canada Inc.",
+    "bid_price": 0.15,
+    "ask_price": 0.165,
+    "bid_size": 5000,
+    "ask_size": 5000
   }
 ]

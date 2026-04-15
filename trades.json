@@ -25294,5 +25294,41 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260415"
+  },
+  {
+    "time_et": "14:54:56",
+    "exchange": "C",
+    "price": 0.16,
+    "change": -0.005,
+    "volume": 98,
+    "buyer": "7 TD Sec",
+    "seller": "36 Latimer",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260415"
+  },
+  {
+    "time_et": "14:54:56",
+    "exchange": "C",
+    "price": 0.16,
+    "change": -0.005,
+    "volume": 1000,
+    "buyer": "84 ITG84",
+    "seller": "80 National Bank",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260415"
+  },
+  {
+    "time_et": "10:07:56",
+    "exchange": "C",
+    "price": 0.16,
+    "change": -0.005,
+    "volume": 1000,
+    "buyer": "84 ITG84",
+    "seller": "80 National Bank",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260415"
   }
 ]
