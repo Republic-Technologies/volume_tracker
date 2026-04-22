@@ -23868,5 +23868,49 @@
     "ask_price": 0.21,
     "bid_size": 2000,
     "ask_size": 500
+  },
+  {
+    "timestamp": "2026-04-22",
+    "price": 0.18,
+    "volume": 1000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Desjardins Securities Inc.",
+    "bid_price": 0.18,
+    "ask_price": 0.19,
+    "bid_size": 1000,
+    "ask_size": 500
+  },
+  {
+    "timestamp": "2026-04-22",
+    "price": 0.175,
+    "volume": 2000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Anonymous",
+    "bid_price": 0.175,
+    "ask_price": 0.19,
+    "bid_size": 2000,
+    "ask_size": 1000
+  },
+  {
+    "timestamp": "2026-04-22",
+    "price": 0.175,
+    "volume": 1000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Anonymous",
+    "bid_price": 0.175,
+    "ask_price": 0.19,
+    "bid_size": 1000,
+    "ask_size": 2000
+  },
+  {
+    "timestamp": "2026-04-22",
+    "price": 0.17,
+    "volume": 2000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "TD Securities Inc.",
+    "bid_price": 0.17,
+    "ask_price": 0.19,
+    "bid_size": 2000,
+    "ask_size": 500
   }
 ]

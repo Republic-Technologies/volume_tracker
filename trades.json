@@ -26074,5 +26074,77 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260422"
+  },
+  {
+    "time_et": "13:37:31",
+    "exchange": "M",
+    "price": 0.18,
+    "change": null,
+    "volume": 116,
+    "buyer": "1 Anonymous",
+    "seller": "14 Virtu ITG",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260422"
+  },
+  {
+    "time_et": "12:46:06",
+    "exchange": "C",
+    "price": 0.18,
+    "change": null,
+    "volume": 100,
+    "buyer": "36 Latimer",
+    "seller": "19 Desjardins",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260422"
+  },
+  {
+    "time_et": "12:35:17",
+    "exchange": "C",
+    "price": 0.185,
+    "change": 0.005,
+    "volume": 50,
+    "buyer": "19 Desjardins",
+    "seller": "36 Latimer",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260422"
+  },
+  {
+    "time_et": "11:24:05",
+    "exchange": "C",
+    "price": 0.18,
+    "change": null,
+    "volume": 208,
+    "buyer": "36 Latimer",
+    "seller": "19 Desjardins",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260422"
+  },
+  {
+    "time_et": "10:28:00",
+    "exchange": "M",
+    "price": 0.18,
+    "change": null,
+    "volume": 472,
+    "buyer": "1 Anonymous",
+    "seller": "39 Merrill Lynch",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260422"
+  },
+  {
+    "time_et": "10:06:35",
+    "exchange": "M",
+    "price": 0.18,
+    "change": null,
+    "volume": 390,
+    "buyer": "7 TD Sec",
+    "seller": "7 TD Sec",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260422"
   }
 ]
