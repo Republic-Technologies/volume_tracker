@@ -26146,5 +26146,17 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260422"
+  },
+  {
+    "time_et": "09:51:33",
+    "exchange": "C",
+    "price": 0.19,
+    "change": 0.005,
+    "volume": 1000,
+    "buyer": "84 ITG84",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260423"
   }
 ]
