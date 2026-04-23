@@ -26158,5 +26158,29 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260423"
+  },
+  {
+    "time_et": "12:13:00",
+    "exchange": "M",
+    "price": 0.18,
+    "change": -0.005,
+    "volume": 100,
+    "buyer": "7 TD Sec",
+    "seller": "7 TD Sec",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260423"
+  },
+  {
+    "time_et": "10:35:43",
+    "exchange": "C",
+    "price": 0.18,
+    "change": -0.005,
+    "volume": 2000,
+    "buyer": "84 ITG84",
+    "seller": "2 RBC",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260423"
   }
 ]
