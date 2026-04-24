@@ -26182,5 +26182,53 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260423"
+  },
+  {
+    "time_et": "09:42:04",
+    "exchange": "Y",
+    "price": 0.175,
+    "change": -0.005,
+    "volume": 1500,
+    "buyer": "1 Anonymous",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260424"
+  },
+  {
+    "time_et": "09:42:04",
+    "exchange": "O",
+    "price": 0.175,
+    "change": -0.005,
+    "volume": 1000,
+    "buyer": "1 Anonymous",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260424"
+  },
+  {
+    "time_et": "09:42:04",
+    "exchange": "C",
+    "price": 0.18,
+    "change": null,
+    "volume": 2000,
+    "buyer": "84 ITG84",
+    "seller": "57 Interactive",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260424"
+  },
+  {
+    "time_et": "09:42:04",
+    "exchange": "H",
+    "price": 0.18,
+    "change": null,
+    "volume": 500,
+    "buyer": "1 Anonymous",
+    "seller": "57 Interactive",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260424"
   }
 ]
