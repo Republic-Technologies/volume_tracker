@@ -26230,5 +26230,53 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260424"
+  },
+  {
+    "time_et": "15:36:40",
+    "exchange": "C",
+    "price": 0.175,
+    "change": -0.005,
+    "volume": 311,
+    "buyer": "36 Latimer",
+    "seller": "19 Desjardins",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260424"
+  },
+  {
+    "time_et": "15:36:40",
+    "exchange": "C",
+    "price": 0.175,
+    "change": -0.005,
+    "volume": 1000,
+    "buyer": "84 ITG84",
+    "seller": "19 Desjardins",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260424"
+  },
+  {
+    "time_et": "15:35:42",
+    "exchange": "C",
+    "price": 0.175,
+    "change": -0.005,
+    "volume": 1000,
+    "buyer": "84 ITG84",
+    "seller": "19 Desjardins",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260424"
+  },
+  {
+    "time_et": "11:12:56",
+    "exchange": "C",
+    "price": 0.18,
+    "change": null,
+    "volume": 1000,
+    "buyer": "7 TD Sec",
+    "seller": "57 Interactive",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260424"
   }
 ]
