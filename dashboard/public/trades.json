@@ -26314,5 +26314,29 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260427"
+  },
+  {
+    "time_et": "13:09:39",
+    "exchange": "H",
+    "price": 0.18,
+    "change": 0.005,
+    "volume": 500,
+    "buyer": "80 National Bank",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260427"
+  },
+  {
+    "time_et": "11:48:18",
+    "exchange": "D",
+    "price": 0.175,
+    "change": 0.065,
+    "volume": 200,
+    "buyer": "1 Anonymous",
+    "seller": "88 Credential",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260427"
   }
 ]
