@@ -26374,5 +26374,29 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260428"
+  },
+  {
+    "time_et": "10:00:25",
+    "exchange": "C",
+    "price": 0.18,
+    "change": null,
+    "volume": 100,
+    "buyer": "36 Latimer",
+    "seller": "19 Desjardins",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260429"
+  },
+  {
+    "time_et": "09:33:53",
+    "exchange": "C",
+    "price": 0.19,
+    "change": 0.01,
+    "volume": 1000,
+    "buyer": "84 ITG84",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260429"
   }
 ]
