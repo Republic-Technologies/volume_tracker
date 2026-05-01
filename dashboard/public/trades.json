@@ -26494,5 +26494,29 @@
     "markers": "",
     "symbol": "DOCT",
     "date": "20260430"
+  },
+  {
+    "time_et": "09:34:43",
+    "exchange": "C",
+    "price": 0.18,
+    "change": null,
+    "volume": 2000,
+    "buyer": "84 ITG84",
+    "seller": "57 Interactive",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260501"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "D",
+    "price": 0.18,
+    "change": 0.06,
+    "volume": 36,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260501"
   }
 ]
