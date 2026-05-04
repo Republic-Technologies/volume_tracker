@@ -26794,5 +26794,29 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260504"
+  },
+  {
+    "time_et": "15:45:30",
+    "exchange": "M",
+    "price": 0.165,
+    "change": null,
+    "volume": 32,
+    "buyer": "80 National Bank",
+    "seller": "7 TD Sec",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260504"
+  },
+  {
+    "time_et": "11:11:40",
+    "exchange": "D",
+    "price": 0.165,
+    "change": 0.075,
+    "volume": 1,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260504"
   }
 ]
