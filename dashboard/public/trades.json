@@ -26746,5 +26746,53 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260501"
+  },
+  {
+    "time_et": "09:59:24",
+    "exchange": "M",
+    "price": 0.185,
+    "change": 0.02,
+    "volume": 5,
+    "buyer": "7 TD Sec",
+    "seller": "1 Anonymous",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260504"
+  },
+  {
+    "time_et": "09:53:18",
+    "exchange": "M",
+    "price": 0.165,
+    "change": null,
+    "volume": 100,
+    "buyer": "1 Anonymous",
+    "seller": "7 TD Sec",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260504"
+  },
+  {
+    "time_et": "09:30:02",
+    "exchange": "C",
+    "price": 0.165,
+    "change": null,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "33 Canaccord",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260504"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.165,
+    "change": null,
+    "volume": 225,
+    "buyer": "36 Latimer",
+    "seller": "88 Credential",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260504"
   }
 ]
