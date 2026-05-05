@@ -26878,5 +26878,113 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260505"
+  },
+  {
+    "time_et": "15:59:01",
+    "exchange": "Y",
+    "price": 0.17,
+    "change": 0.005,
+    "volume": 500,
+    "buyer": "80 National Bank",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260505"
+  },
+  {
+    "time_et": "15:40:45",
+    "exchange": "M",
+    "price": 0.17,
+    "change": 0.005,
+    "volume": 36,
+    "buyer": "80 National Bank",
+    "seller": "1 Anonymous",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260505"
+  },
+  {
+    "time_et": "13:07:24",
+    "exchange": "H",
+    "price": 0.17,
+    "change": 0.005,
+    "volume": 1500,
+    "buyer": "80 National Bank",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260505"
+  },
+  {
+    "time_et": "13:07:24",
+    "exchange": "M",
+    "price": 0.17,
+    "change": 0.005,
+    "volume": 211,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260505"
+  },
+  {
+    "time_et": "12:27:55",
+    "exchange": "M",
+    "price": 0.17,
+    "change": 0.005,
+    "volume": 100,
+    "buyer": "7 TD Sec",
+    "seller": "7 TD Sec",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260505"
+  },
+  {
+    "time_et": "12:06:11",
+    "exchange": "M",
+    "price": 0.17,
+    "change": 0.005,
+    "volume": 441,
+    "buyer": "7 TD Sec",
+    "seller": "7 TD Sec",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260505"
+  },
+  {
+    "time_et": "12:05:02",
+    "exchange": "M",
+    "price": 0.17,
+    "change": 0.005,
+    "volume": 343,
+    "buyer": "7 TD Sec",
+    "seller": "7 TD Sec",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260505"
+  },
+  {
+    "time_et": "12:03:41",
+    "exchange": "M",
+    "price": 0.17,
+    "change": 0.005,
+    "volume": 184,
+    "buyer": "7 TD Sec",
+    "seller": "7 TD Sec",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260505"
+  },
+  {
+    "time_et": "12:02:13",
+    "exchange": "M",
+    "price": 0.17,
+    "change": 0.005,
+    "volume": 200,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260505"
   }
 ]
