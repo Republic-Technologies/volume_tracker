@@ -26167,5 +26167,115 @@
     "ask_price": 0.215,
     "bid_size": 1000,
     "ask_size": 70500
+  },
+  {
+    "timestamp": "2026-05-06",
+    "price": 0.165,
+    "volume": 500,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "RBC Capital Markets",
+    "bid_price": 0.165,
+    "ask_price": 0.17,
+    "bid_size": 500,
+    "ask_size": 14500
+  },
+  {
+    "timestamp": "2026-05-06",
+    "price": 0.165,
+    "volume": 1500,
+    "buyer_broker": "TD Securities Inc.",
+    "seller_broker": "CIBC World Markets Inc.",
+    "bid_price": 0.165,
+    "ask_price": 0.17,
+    "bid_size": 1500,
+    "ask_size": 3000
+  },
+  {
+    "timestamp": "2026-05-06",
+    "price": 0.165,
+    "volume": 500,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Anonymous",
+    "bid_price": 0.165,
+    "ask_price": 0.175,
+    "bid_size": 500,
+    "ask_size": 1000
+  },
+  {
+    "timestamp": "2026-05-06",
+    "price": 0.165,
+    "volume": 500,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Desjardins Securities Inc.",
+    "bid_price": 0.165,
+    "ask_price": 0.19,
+    "bid_size": 500,
+    "ask_size": 500
+  },
+  {
+    "timestamp": "2026-05-06",
+    "price": 0.16,
+    "volume": 2000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Anonymous",
+    "bid_price": 0.16,
+    "ask_price": 0.19,
+    "bid_size": 2000,
+    "ask_size": 6500
+  },
+  {
+    "timestamp": "2026-05-06",
+    "price": 0.16,
+    "volume": 1000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Anonymous",
+    "bid_price": 0.16,
+    "ask_price": 0.2,
+    "bid_size": 1000,
+    "ask_size": 1000
+  },
+  {
+    "timestamp": "2026-05-06",
+    "price": 0.155,
+    "volume": 4000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Interactive Brokers Canada Inc.",
+    "bid_price": 0.155,
+    "ask_price": 0.205,
+    "bid_size": 4000,
+    "ask_size": 4000
+  },
+  {
+    "timestamp": "2026-05-06",
+    "price": 0.155,
+    "volume": 1500,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Desjardins Securities Inc.",
+    "bid_price": 0.155,
+    "ask_price": 0.21,
+    "bid_size": 1500,
+    "ask_size": 500
+  },
+  {
+    "timestamp": "2026-05-06",
+    "price": 0.155,
+    "volume": 4000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Interactive Brokers Canada Inc.",
+    "bid_price": 0.155,
+    "ask_price": 0.21,
+    "bid_size": 4000,
+    "ask_size": 6000
+  },
+  {
+    "timestamp": "2026-05-06",
+    "price": 0.15,
+    "volume": 22500,
+    "buyer_broker": "Canaccord Capital Corporation",
+    "seller_broker": "Scotia Capital Inc.",
+    "bid_price": 0.15,
+    "ask_price": 0.215,
+    "bid_size": 22500,
+    "ask_size": 70500
   }
 ]
