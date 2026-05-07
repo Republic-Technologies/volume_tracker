@@ -27382,5 +27382,17 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260506"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.16,
+    "change": null,
+    "volume": 1500,
+    "buyer": "84 ITG84",
+    "seller": "2 RBC",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260507"
   }
 ]
