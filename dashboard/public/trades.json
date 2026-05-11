@@ -27430,5 +27430,41 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260508"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.16,
+    "change": -0.01,
+    "volume": 1,
+    "buyer": "36 Latimer",
+    "seller": "2 RBC",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260511"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.165,
+    "change": -0.005,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "2 RBC",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260511"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.165,
+    "change": -0.005,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "79 CIBC",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260511"
   }
 ]
