@@ -27730,5 +27730,53 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260512"
+  },
+  {
+    "time_et": "10:34:46",
+    "exchange": "C",
+    "price": 0.18,
+    "change": 0.01,
+    "volume": 1000,
+    "buyer": "84 ITG84",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260513"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.17,
+    "change": null,
+    "volume": 454,
+    "buyer": "36 Latimer",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260513"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.17,
+    "change": null,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "80 National Bank",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260513"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.17,
+    "change": null,
+    "volume": 1000,
+    "buyer": "84 ITG84",
+    "seller": "80 National Bank",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260513"
   }
 ]
