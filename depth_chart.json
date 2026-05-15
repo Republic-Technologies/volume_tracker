@@ -27960,5 +27960,16 @@
     "ask_price": 0.22,
     "bid_size": 2000,
     "ask_size": 5000
+  },
+  {
+    "timestamp": "2026-05-15",
+    "price": 0.165,
+    "volume": 1000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "TD Securities Inc.",
+    "bid_price": 0.165,
+    "ask_price": 0.18,
+    "bid_size": 1000,
+    "ask_size": 1000
   }
 ]
