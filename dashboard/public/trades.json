@@ -27898,5 +27898,29 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260519"
+  },
+  {
+    "time_et": "12:29:24",
+    "exchange": "C",
+    "price": 0.17,
+    "change": null,
+    "volume": 2000,
+    "buyer": "84 ITG84",
+    "seller": "33 Canaccord",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260520"
+  },
+  {
+    "time_et": "12:29:24",
+    "exchange": "C",
+    "price": 0.17,
+    "change": null,
+    "volume": 1000,
+    "buyer": "84 ITG84",
+    "seller": "33 Canaccord",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260520"
   }
 ]
