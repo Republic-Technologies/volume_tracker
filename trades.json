@@ -27922,5 +27922,89 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260520"
+  },
+  {
+    "time_et": "11:06:47",
+    "exchange": "C",
+    "price": 0.165,
+    "change": -0.005,
+    "volume": 3000,
+    "buyer": "7 TD Sec",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260521"
+  },
+  {
+    "time_et": "10:29:57",
+    "exchange": "D",
+    "price": 0.165,
+    "change": 0.07,
+    "volume": 120,
+    "buyer": "80 National Bank",
+    "seller": "7 TD Sec",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260521"
+  },
+  {
+    "time_et": "10:29:57",
+    "exchange": "D",
+    "price": 0.165,
+    "change": 0.07,
+    "volume": 50,
+    "buyer": "80 National Bank",
+    "seller": "1 Anonymous",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260521"
+  },
+  {
+    "time_et": "10:29:57",
+    "exchange": "C",
+    "price": 0.165,
+    "change": -0.005,
+    "volume": 500,
+    "buyer": "80 National Bank",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260521"
+  },
+  {
+    "time_et": "10:29:57",
+    "exchange": "C",
+    "price": 0.165,
+    "change": -0.005,
+    "volume": 1000,
+    "buyer": "80 National Bank",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260521"
+  },
+  {
+    "time_et": "10:29:57",
+    "exchange": "C",
+    "price": 0.165,
+    "change": -0.005,
+    "volume": 1000,
+    "buyer": "84 ITG84",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260521"
+  },
+  {
+    "time_et": "10:29:57",
+    "exchange": "Y",
+    "price": 0.165,
+    "change": -0.005,
+    "volume": 1000,
+    "buyer": "1 Anonymous",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260521"
   }
 ]
