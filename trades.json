@@ -28006,5 +28006,65 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260521"
+  },
+  {
+    "time_et": "11:08:37",
+    "exchange": "C",
+    "price": 0.155,
+    "change": -0.01,
+    "volume": 400,
+    "buyer": "124 Questrade",
+    "seller": "36 Latimer",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260522"
+  },
+  {
+    "time_et": "11:08:37",
+    "exchange": "C",
+    "price": 0.155,
+    "change": -0.01,
+    "volume": 4500,
+    "buyer": "124 Questrade",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260522"
+  },
+  {
+    "time_et": "11:08:37",
+    "exchange": "C",
+    "price": 0.155,
+    "change": -0.01,
+    "volume": 2000,
+    "buyer": "84 ITG84",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260522"
+  },
+  {
+    "time_et": "11:08:37",
+    "exchange": "C",
+    "price": 0.16,
+    "change": -0.005,
+    "volume": 2000,
+    "buyer": "84 ITG84",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260522"
+  },
+  {
+    "time_et": "10:23:16",
+    "exchange": "D",
+    "price": 0.16,
+    "change": 0.075,
+    "volume": 10,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260522"
   }
 ]
