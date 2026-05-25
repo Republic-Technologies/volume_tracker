@@ -29401,5 +29401,104 @@
     "ask_price": 0.48,
     "bid_size": 5000,
     "ask_size": 2500
+  },
+  {
+    "timestamp": "2026-05-25",
+    "price": 0.155,
+    "volume": 1000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Desjardins Securities Inc.",
+    "bid_price": 0.155,
+    "ask_price": 0.19,
+    "bid_size": 1000,
+    "ask_size": 500
+  },
+  {
+    "timestamp": "2026-05-25",
+    "price": 0.15,
+    "volume": 2000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Anonymous",
+    "bid_price": 0.15,
+    "ask_price": 0.19,
+    "bid_size": 2000,
+    "ask_size": 6500
+  },
+  {
+    "timestamp": "2026-05-25",
+    "price": 0.145,
+    "volume": 1000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Interactive Brokers Canada Inc.",
+    "bid_price": 0.145,
+    "ask_price": 0.205,
+    "bid_size": 1000,
+    "ask_size": 4000
+  },
+  {
+    "timestamp": "2026-05-25",
+    "price": 0.145,
+    "volume": 2000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Interactive Brokers Canada Inc.",
+    "bid_price": 0.145,
+    "ask_price": 0.21,
+    "bid_size": 2000,
+    "ask_size": 6000
+  },
+  {
+    "timestamp": "2026-05-25",
+    "price": 0.14,
+    "volume": 5000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Scotia Capital Inc.",
+    "bid_price": 0.14,
+    "ask_price": 0.215,
+    "bid_size": 5000,
+    "ask_size": 70500
+  },
+  {
+    "timestamp": "2026-05-25",
+    "price": 0.14,
+    "volume": 1000,
+    "buyer_broker": "RBC Capital Markets",
+    "seller_broker": "Interactive Brokers Canada Inc.",
+    "bid_price": 0.14,
+    "ask_price": 0.22,
+    "bid_size": 1000,
+    "ask_size": 5000
+  },
+  {
+    "timestamp": "2026-05-25",
+    "price": 0.135,
+    "volume": 1000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "TD Securities Inc.",
+    "bid_price": 0.135,
+    "ask_price": 0.47,
+    "bid_size": 1000,
+    "ask_size": 500
+  },
+  {
+    "timestamp": "2026-05-25",
+    "price": 0.13,
+    "volume": 5000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Anonymous",
+    "bid_price": 0.13,
+    "ask_price": 0.48,
+    "bid_size": 5000,
+    "ask_size": 2500
+  },
+  {
+    "timestamp": "2026-05-25",
+    "price": 0.125,
+    "volume": 5000,
+    "buyer_broker": "Anonymous",
+    "seller_broker": "TD Securities Inc.",
+    "bid_price": 0.125,
+    "ask_price": 0.63,
+    "bid_size": 5000,
+    "ask_size": 10000
   }
 ]
