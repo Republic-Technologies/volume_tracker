@@ -28198,5 +28198,29 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260526"
+  },
+  {
+    "time_et": "12:40:04",
+    "exchange": "D",
+    "price": 0.165,
+    "change": 0.085,
+    "volume": 100,
+    "buyer": "1 Anonymous",
+    "seller": "124 Questrade",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260526"
+  },
+  {
+    "time_et": "12:09:32",
+    "exchange": "C",
+    "price": 0.17,
+    "change": 0.015,
+    "volume": 2000,
+    "buyer": "1 Anonymous",
+    "seller": "2 RBC",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260526"
   }
 ]
