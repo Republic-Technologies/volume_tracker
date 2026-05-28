@@ -30050,5 +30050,27 @@
     "ask_price": 0.22,
     "bid_size": 5000,
     "ask_size": 5000
+  },
+  {
+    "timestamp": "2026-05-28",
+    "price": 0.15,
+    "volume": 2000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "RBC Capital Markets",
+    "bid_price": 0.15,
+    "ask_price": 0.16,
+    "bid_size": 2000,
+    "ask_size": 7000
+  },
+  {
+    "timestamp": "2026-05-28",
+    "price": 0.145,
+    "volume": 2000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "RBC Capital Markets",
+    "bid_price": 0.145,
+    "ask_price": 0.16,
+    "bid_size": 2000,
+    "ask_size": 4000
   }
 ]
