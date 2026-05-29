@@ -28642,5 +28642,41 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260529"
+  },
+  {
+    "time_et": "14:17:08",
+    "exchange": "D",
+    "price": 0.15,
+    "change": 0.085,
+    "volume": 85,
+    "buyer": "80 National Bank",
+    "seller": "124 Questrade",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260529"
+  },
+  {
+    "time_et": "14:16:09",
+    "exchange": "D",
+    "price": 0.15,
+    "change": 0.085,
+    "volume": 137,
+    "buyer": "7 TD Sec",
+    "seller": "124 Questrade",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260529"
+  },
+  {
+    "time_et": "13:30:34",
+    "exchange": "C",
+    "price": 0.155,
+    "change": null,
+    "volume": 300,
+    "buyer": "19 Desjardins",
+    "seller": "36 Latimer",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260529"
   }
 ]
