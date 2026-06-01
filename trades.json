@@ -28714,5 +28714,17 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260601"
+  },
+  {
+    "time_et": "15:17:22",
+    "exchange": "C",
+    "price": 0.15,
+    "change": null,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "14 Virtu ITG",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260601"
   }
 ]
