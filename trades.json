@@ -28678,5 +28678,41 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260529"
+  },
+  {
+    "time_et": "10:38:41",
+    "exchange": "C",
+    "price": 0.15,
+    "change": null,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "80 National Bank",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260601"
+  },
+  {
+    "time_et": "10:38:41",
+    "exchange": "D",
+    "price": 0.15,
+    "change": 0.09,
+    "volume": 13,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260601"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.15,
+    "change": null,
+    "volume": 25,
+    "buyer": "36 Latimer",
+    "seller": "2 RBC",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260601"
   }
 ]
