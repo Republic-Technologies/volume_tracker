@@ -28774,5 +28774,29 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260602"
+  },
+  {
+    "time_et": "14:48:53",
+    "exchange": "C",
+    "price": 0.14,
+    "change": -0.01,
+    "volume": 14,
+    "buyer": "36 Latimer",
+    "seller": "9 BMO Nesbitt",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260602"
+  },
+  {
+    "time_et": "12:54:03",
+    "exchange": "M",
+    "price": 0.15,
+    "change": null,
+    "volume": 235,
+    "buyer": "39 Merrill Lynch",
+    "seller": "1 Anonymous",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260602"
   }
 ]
