@@ -28798,5 +28798,17 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260602"
+  },
+  {
+    "time_et": "11:31:00",
+    "exchange": "H",
+    "price": 0.155,
+    "change": 0.01,
+    "volume": 270,
+    "buyer": "39 Merrill Lynch",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260603"
   }
 ]
