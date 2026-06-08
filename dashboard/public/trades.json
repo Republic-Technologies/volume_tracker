@@ -29278,5 +29278,77 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260608"
+  },
+  {
+    "time_et": "15:40:32",
+    "exchange": "C",
+    "price": 0.12,
+    "change": -0.005,
+    "volume": 1500,
+    "buyer": "7 TD Sec",
+    "seller": "7 TD Sec",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260608"
+  },
+  {
+    "time_et": "15:09:32",
+    "exchange": "M",
+    "price": 0.12,
+    "change": -0.005,
+    "volume": 100,
+    "buyer": "7 TD Sec",
+    "seller": "7 TD Sec",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260608"
+  },
+  {
+    "time_et": "13:34:55",
+    "exchange": "C",
+    "price": 0.12,
+    "change": -0.005,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "2 RBC",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260608"
+  },
+  {
+    "time_et": "13:34:55",
+    "exchange": "C",
+    "price": 0.12,
+    "change": -0.005,
+    "volume": 1000,
+    "buyer": "84 ITG84",
+    "seller": "2 RBC",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260608"
+  },
+  {
+    "time_et": "13:34:55",
+    "exchange": "C",
+    "price": 0.125,
+    "change": null,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "2 RBC",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260608"
+  },
+  {
+    "time_et": "13:34:55",
+    "exchange": "C",
+    "price": 0.125,
+    "change": null,
+    "volume": 1000,
+    "buyer": "1 Anonymous",
+    "seller": "2 RBC",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260608"
   }
 ]
