@@ -29350,5 +29350,53 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260608"
+  },
+  {
+    "time_et": "11:14:35",
+    "exchange": "O",
+    "price": 0.13,
+    "change": 0.01,
+    "volume": 2500,
+    "buyer": "33 Canaccord",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260609"
+  },
+  {
+    "time_et": "11:14:35",
+    "exchange": "M",
+    "price": 0.13,
+    "change": 0.01,
+    "volume": 255,
+    "buyer": "33 Canaccord",
+    "seller": "1 Anonymous",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260609"
+  },
+  {
+    "time_et": "10:58:44",
+    "exchange": "D",
+    "price": 0.13,
+    "change": 0.12,
+    "volume": 1,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260609"
+  },
+  {
+    "time_et": "10:25:51",
+    "exchange": "C",
+    "price": 0.115,
+    "change": -0.005,
+    "volume": 10500,
+    "buyer": "79 CIBC",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260609"
   }
 ]
