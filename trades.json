@@ -29470,5 +29470,53 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260611"
+  },
+  {
+    "time_et": "12:58:15",
+    "exchange": "M",
+    "price": 0.11,
+    "change": -0.02,
+    "volume": 200,
+    "buyer": "1 Anonymous",
+    "seller": "1 Anonymous",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260611"
+  },
+  {
+    "time_et": "12:58:15",
+    "exchange": "C",
+    "price": 0.11,
+    "change": -0.02,
+    "volume": 4000,
+    "buyer": "84 ITG84",
+    "seller": "2 RBC",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260611"
+  },
+  {
+    "time_et": "12:58:15",
+    "exchange": "C",
+    "price": 0.115,
+    "change": -0.015,
+    "volume": 2000,
+    "buyer": "1 Anonymous",
+    "seller": "2 RBC",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260611"
+  },
+  {
+    "time_et": "12:57:16",
+    "exchange": "C",
+    "price": 0.12,
+    "change": -0.01,
+    "volume": 2000,
+    "buyer": "1 Anonymous",
+    "seller": "2 RBC",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260611"
   }
 ]
