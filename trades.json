@@ -29518,5 +29518,41 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260611"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.115,
+    "change": 0.005,
+    "volume": 14,
+    "buyer": "36 Latimer",
+    "seller": "124 Questrade",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260612"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.115,
+    "change": 0.005,
+    "volume": 50,
+    "buyer": "36 Latimer",
+    "seller": "2 RBC",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260612"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "D",
+    "price": 0.115,
+    "change": 0.13,
+    "volume": 79,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260612"
   }
 ]
