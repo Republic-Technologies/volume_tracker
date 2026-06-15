@@ -29554,5 +29554,41 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260612"
+  },
+  {
+    "time_et": "11:27:28",
+    "exchange": "C",
+    "price": 0.115,
+    "change": 0.005,
+    "volume": 35,
+    "buyer": "36 Latimer",
+    "seller": "7 TD Sec",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260615"
+  },
+  {
+    "time_et": "11:14:39",
+    "exchange": "C",
+    "price": 0.115,
+    "change": 0.005,
+    "volume": 137,
+    "buyer": "36 Latimer",
+    "seller": "9 BMO Nesbitt",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260615"
+  },
+  {
+    "time_et": "10:49:17",
+    "exchange": "D",
+    "price": 0.115,
+    "change": 0.13,
+    "volume": 1,
+    "buyer": "1 Anonymous",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260615"
   }
 ]
