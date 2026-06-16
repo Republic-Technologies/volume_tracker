@@ -29818,5 +29818,17 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260616"
+  },
+  {
+    "time_et": "14:47:07",
+    "exchange": "C",
+    "price": 0.115,
+    "change": 0.005,
+    "volume": 27,
+    "buyer": "59 Ventum",
+    "seller": "36 Latimer",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260616"
   }
 ]
