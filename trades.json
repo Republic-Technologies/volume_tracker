@@ -29890,5 +29890,41 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260619"
+  },
+  {
+    "time_et": "10:52:55",
+    "exchange": "C",
+    "price": 0.105,
+    "change": null,
+    "volume": 50,
+    "buyer": "36 Latimer",
+    "seller": "7 TD Sec",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260622"
+  },
+  {
+    "time_et": "10:52:55",
+    "exchange": "D",
+    "price": 0.105,
+    "change": 0.135,
+    "volume": 1,
+    "buyer": "7 TD Sec",
+    "seller": "7 TD Sec",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260622"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.105,
+    "change": null,
+    "volume": 30,
+    "buyer": "36 Latimer",
+    "seller": "124 Questrade",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260622"
   }
 ]
