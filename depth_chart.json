@@ -34175,5 +34175,49 @@
     "ask_price": 0.18,
     "bid_size": 5000,
     "ask_size": 1000
+  },
+  {
+    "timestamp": "2026-06-22",
+    "price": 0.105,
+    "volume": 1000,
+    "buyer_broker": "Desjardins Securities Inc.",
+    "seller_broker": "Desjardins Securities Inc.",
+    "bid_price": 0.105,
+    "ask_price": 0.13,
+    "bid_size": 1000,
+    "ask_size": 1000
+  },
+  {
+    "timestamp": "2026-06-22",
+    "price": 0.05,
+    "volume": 5000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Anonymous",
+    "bid_price": 0.05,
+    "ask_price": 0.19,
+    "bid_size": 5000,
+    "ask_size": 6500
+  },
+  {
+    "timestamp": "2026-06-22",
+    "price": 0.04,
+    "volume": 5000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Desjardins Securities Inc.",
+    "bid_price": 0.04,
+    "ask_price": 0.19,
+    "bid_size": 5000,
+    "ask_size": 500
+  },
+  {
+    "timestamp": "2026-06-22",
+    "price": 0.03,
+    "volume": 5000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Scotia Capital Inc.",
+    "bid_price": 0.03,
+    "ask_price": 0.215,
+    "bid_size": 5000,
+    "ask_size": 70500
   }
 ]
