@@ -29926,5 +29926,41 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260622"
+  },
+  {
+    "time_et": "10:52:55",
+    "exchange": "D",
+    "price": 0.125,
+    "change": 0.135,
+    "volume": 1,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260623"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.105,
+    "change": null,
+    "volume": 115,
+    "buyer": "36 Latimer",
+    "seller": "2 RBC",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260623"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.105,
+    "change": null,
+    "volume": 500,
+    "buyer": "19 Desjardins",
+    "seller": "2 RBC",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260623"
   }
 ]
