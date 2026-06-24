@@ -29974,5 +29974,41 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260624"
+  },
+  {
+    "time_et": "15:44:53",
+    "exchange": "D",
+    "price": 0.105,
+    "change": 0.135,
+    "volume": 75,
+    "buyer": "80 National Bank",
+    "seller": "124 Questrade",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260624"
+  },
+  {
+    "time_et": "12:06:45",
+    "exchange": "D",
+    "price": 0.105,
+    "change": 0.135,
+    "volume": 100,
+    "buyer": "1 Anonymous",
+    "seller": "88 Credential",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260624"
+  },
+  {
+    "time_et": "11:35:06",
+    "exchange": "C",
+    "price": 0.105,
+    "change": null,
+    "volume": 50,
+    "buyer": "36 Latimer",
+    "seller": "9 BMO Nesbitt",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260624"
   }
 ]
