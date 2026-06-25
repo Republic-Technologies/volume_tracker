@@ -30010,5 +30010,89 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260624"
+  },
+  {
+    "time_et": "11:03:22",
+    "exchange": "C",
+    "price": 0.105,
+    "change": null,
+    "volume": 100,
+    "buyer": "36 Latimer",
+    "seller": "85 Scotia",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260625"
+  },
+  {
+    "time_et": "11:03:22",
+    "exchange": "C",
+    "price": 0.105,
+    "change": null,
+    "volume": 1000,
+    "buyer": "84 ITG84",
+    "seller": "85 Scotia",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260625"
+  },
+  {
+    "time_et": "11:03:22",
+    "exchange": "C",
+    "price": 0.105,
+    "change": null,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "85 Scotia",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260625"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "D",
+    "price": 0.1,
+    "change": 0.135,
+    "volume": 250,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260625"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.105,
+    "change": null,
+    "volume": 1000,
+    "buyer": "84 ITG84",
+    "seller": "88 Credential",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260625"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.105,
+    "change": null,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "88 Credential",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260625"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.105,
+    "change": null,
+    "volume": 500,
+    "buyer": "19 Desjardins",
+    "seller": "88 Credential",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260625"
   }
 ]
