@@ -30094,5 +30094,29 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260625"
+  },
+  {
+    "time_et": "14:07:49",
+    "exchange": "C",
+    "price": 0.105,
+    "change": null,
+    "volume": 275,
+    "buyer": "36 Latimer",
+    "seller": "9 BMO Nesbitt",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260625"
+  },
+  {
+    "time_et": "12:28:32",
+    "exchange": "M",
+    "price": 0.105,
+    "change": null,
+    "volume": 420,
+    "buyer": "1 Anonymous",
+    "seller": "79 CIBC",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260625"
   }
 ]
