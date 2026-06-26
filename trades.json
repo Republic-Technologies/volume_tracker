@@ -30118,5 +30118,89 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260625"
+  },
+  {
+    "time_et": "14:49:55",
+    "exchange": "M",
+    "price": 0.11,
+    "change": 0.005,
+    "volume": 450,
+    "buyer": "1 Anonymous",
+    "seller": "14 Virtu ITG",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260626"
+  },
+  {
+    "time_et": "11:13:18",
+    "exchange": "O",
+    "price": 0.12,
+    "change": 0.015,
+    "volume": 1000,
+    "buyer": "84 ITG84",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260626"
+  },
+  {
+    "time_et": "11:13:11",
+    "exchange": "O",
+    "price": 0.12,
+    "change": 0.015,
+    "volume": 1000,
+    "buyer": "84 ITG84",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260626"
+  },
+  {
+    "time_et": "11:12:35",
+    "exchange": "C",
+    "price": 0.12,
+    "change": 0.015,
+    "volume": 1000,
+    "buyer": "84 ITG84",
+    "seller": "19 Desjardins",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260626"
+  },
+  {
+    "time_et": "11:12:24",
+    "exchange": "D",
+    "price": 0.11,
+    "change": 0.135,
+    "volume": 200,
+    "buyer": "1 Anonymous",
+    "seller": "14 Virtu ITG",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260626"
+  },
+  {
+    "time_et": "11:11:12",
+    "exchange": "M",
+    "price": 0.1125,
+    "change": 0.0075,
+    "volume": 2500,
+    "buyer": "85 Scotia",
+    "seller": "1 Anonymous",
+    "markers": "",
+    "symbol": "DOCT",
+    "date": "20260626"
+  },
+  {
+    "time_et": "11:11:12",
+    "exchange": "C",
+    "price": 0.12,
+    "change": 0.015,
+    "volume": 26,
+    "buyer": "85 Scotia",
+    "seller": "36 Latimer",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260626"
   }
 ]
