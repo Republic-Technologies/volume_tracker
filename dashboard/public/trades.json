@@ -30358,5 +30358,29 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260629"
+  },
+  {
+    "time_et": "10:36:35",
+    "exchange": "D",
+    "price": 0.115,
+    "change": 0.12,
+    "volume": 104,
+    "buyer": "80 National Bank",
+    "seller": "33 Canaccord",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260630"
+  },
+  {
+    "time_et": "09:54:01",
+    "exchange": "C",
+    "price": 0.125,
+    "change": 0.01,
+    "volume": 1000,
+    "buyer": "84 ITG84",
+    "seller": "79 CIBC",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260630"
   }
 ]
