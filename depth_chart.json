@@ -36210,5 +36210,115 @@
     "ask_price": 0.0,
     "bid_size": 5000,
     "ask_size": 0
+  },
+  {
+    "timestamp": "2026-07-05",
+    "price": 0.115,
+    "volume": 2000,
+    "buyer_broker": "Anonymous",
+    "seller_broker": "Anonymous",
+    "bid_price": 0.115,
+    "ask_price": 0.13,
+    "bid_size": 2000,
+    "ask_size": 1000
+  },
+  {
+    "timestamp": "2026-07-05",
+    "price": 0.11,
+    "volume": 2000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Anonymous",
+    "bid_price": 0.11,
+    "ask_price": 0.18,
+    "bid_size": 2000,
+    "ask_size": 1000
+  },
+  {
+    "timestamp": "2026-07-05",
+    "price": 0.105,
+    "volume": 1000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "TD Securities Inc.",
+    "bid_price": 0.105,
+    "ask_price": 0.19,
+    "bid_size": 1000,
+    "ask_size": 7500
+  },
+  {
+    "timestamp": "2026-07-05",
+    "price": 0.105,
+    "volume": 1000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "National Bank Financial Inc.",
+    "bid_price": 0.105,
+    "ask_price": 0.3,
+    "bid_size": 1000,
+    "ask_size": 1500
+  },
+  {
+    "timestamp": "2026-07-05",
+    "price": 0.1,
+    "volume": 5000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Anonymous",
+    "bid_price": 0.1,
+    "ask_price": 0.48,
+    "bid_size": 5000,
+    "ask_size": 2500
+  },
+  {
+    "timestamp": "2026-07-05",
+    "price": 0.09,
+    "volume": 5000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "National Bank Financial Inc.",
+    "bid_price": 0.09,
+    "ask_price": 0.7,
+    "bid_size": 5000,
+    "ask_size": 1000
+  },
+  {
+    "timestamp": "2026-07-05",
+    "price": 0.07,
+    "volume": 5000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "National Bank Financial Inc.",
+    "bid_price": 0.07,
+    "ask_price": 0.75,
+    "bid_size": 5000,
+    "ask_size": 1000
+  },
+  {
+    "timestamp": "2026-07-05",
+    "price": 0.06,
+    "volume": 5000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "",
+    "bid_price": 0.06,
+    "ask_price": 0.0,
+    "bid_size": 5000,
+    "ask_size": 0
+  },
+  {
+    "timestamp": "2026-07-05",
+    "price": 0.05,
+    "volume": 5000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "",
+    "bid_price": 0.05,
+    "ask_price": 0.0,
+    "bid_size": 5000,
+    "ask_size": 0
+  },
+  {
+    "timestamp": "2026-07-05",
+    "price": 0.04,
+    "volume": 5000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "",
+    "bid_price": 0.04,
+    "ask_price": 0.0,
+    "bid_size": 5000,
+    "ask_size": 0
   }
 ]
