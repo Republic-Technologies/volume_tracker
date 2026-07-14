@@ -37310,5 +37310,49 @@
     "ask_price": 0.0,
     "bid_size": 5000,
     "ask_size": 0
+  },
+  {
+    "timestamp": "2026-07-14",
+    "price": 0.12,
+    "volume": 2000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "National Bank Financial Inc.",
+    "bid_price": 0.12,
+    "ask_price": 0.12,
+    "bid_size": 2000,
+    "ask_size": 1500
+  },
+  {
+    "timestamp": "2026-07-14",
+    "price": 0.115,
+    "volume": 2000,
+    "buyer_broker": "Anonymous",
+    "seller_broker": "Anonymous",
+    "bid_price": 0.115,
+    "ask_price": 0.13,
+    "bid_size": 2000,
+    "ask_size": 1000
+  },
+  {
+    "timestamp": "2026-07-14",
+    "price": 0.11,
+    "volume": 2000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Anonymous",
+    "bid_price": 0.11,
+    "ask_price": 0.18,
+    "bid_size": 2000,
+    "ask_size": 1000
+  },
+  {
+    "timestamp": "2026-07-14",
+    "price": 0.105,
+    "volume": 1000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "TD Securities Inc.",
+    "bid_price": 0.105,
+    "ask_price": 0.19,
+    "bid_size": 1000,
+    "ask_size": 7500
   }
 ]
