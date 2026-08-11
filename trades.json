@@ -30694,5 +30694,89 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260810"
+  },
+  {
+    "time_et": "14:18:15",
+    "exchange": "M",
+    "price": 0.16,
+    "change": 0.02,
+    "volume": 435,
+    "buyer": "1 Anonymous",
+    "seller": "7 TD Sec",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260811"
+  },
+  {
+    "time_et": "14:16:43",
+    "exchange": "C",
+    "price": 0.16,
+    "change": 0.02,
+    "volume": 500,
+    "buyer": "2 RBC",
+    "seller": "7 TD Sec",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260811"
+  },
+  {
+    "time_et": "13:44:44",
+    "exchange": "C",
+    "price": 0.16,
+    "change": 0.02,
+    "volume": 1000,
+    "buyer": "2 RBC",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260811"
+  },
+  {
+    "time_et": "13:07:32",
+    "exchange": "C",
+    "price": 0.155,
+    "change": 0.015,
+    "volume": 311,
+    "buyer": "36 Latimer",
+    "seller": "7 TD Sec",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260811"
+  },
+  {
+    "time_et": "13:07:32",
+    "exchange": "C",
+    "price": 0.155,
+    "change": 0.015,
+    "volume": 500,
+    "buyer": "1 Anonymous",
+    "seller": "7 TD Sec",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260811"
+  },
+  {
+    "time_et": "12:09:32",
+    "exchange": "M",
+    "price": 0.155,
+    "change": 0.015,
+    "volume": 25,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260811"
+  },
+  {
+    "time_et": "11:01:02",
+    "exchange": "C",
+    "price": 0.155,
+    "change": 0.015,
+    "volume": 1000,
+    "buyer": "124 Questrade",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260811"
   }
 ]
