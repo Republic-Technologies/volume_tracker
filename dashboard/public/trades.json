@@ -30778,5 +30778,29 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260811"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.445,
+    "change": 0.285,
+    "volume": 1,
+    "buyer": "7 TD Sec",
+    "seller": "36 Latimer",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260812"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.445,
+    "change": 0.285,
+    "volume": 1,
+    "buyer": "124 Questrade",
+    "seller": "36 Latimer",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260812"
   }
 ]
