@@ -30838,5 +30838,17 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260814"
+  },
+  {
+    "time_et": "11:56:32",
+    "exchange": "D",
+    "price": 0.16,
+    "change": 0.08,
+    "volume": 20,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260814"
   }
 ]
