@@ -31054,5 +31054,89 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260821"
+  },
+  {
+    "time_et": "15:59:33",
+    "exchange": "C",
+    "price": 0.17,
+    "change": 0.02,
+    "volume": 500,
+    "buyer": "80 National Bank",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260824"
+  },
+  {
+    "time_et": "12:09:54",
+    "exchange": "M",
+    "price": 0.16,
+    "change": 0.01,
+    "volume": 1000,
+    "buyer": "1 Anonymous",
+    "seller": "7 TD Sec",
+    "markers": "",
+    "symbol": "DOCT",
+    "date": "20260824"
+  },
+  {
+    "time_et": "12:09:54",
+    "exchange": "C",
+    "price": 0.155,
+    "change": 0.005,
+    "volume": 350,
+    "buyer": "36 Latimer",
+    "seller": "7 TD Sec",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260824"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.18,
+    "change": 0.03,
+    "volume": 9,
+    "buyer": "7 TD Sec",
+    "seller": "36 Latimer",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260824"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.18,
+    "change": 0.03,
+    "volume": 1,
+    "buyer": "7 TD Sec",
+    "seller": "7 TD Sec",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260824"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.18,
+    "change": 0.03,
+    "volume": 55,
+    "buyer": "7 TD Sec",
+    "seller": "57 Interactive",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260824"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "D",
+    "price": 0.155,
+    "change": 0.09,
+    "volume": 30,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260824"
   }
 ]
