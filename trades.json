@@ -31138,5 +31138,41 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260824"
+  },
+  {
+    "time_et": "15:23:38",
+    "exchange": "D",
+    "price": 0.16,
+    "change": 0.07,
+    "volume": 137,
+    "buyer": "80 National Bank",
+    "seller": "2 RBC",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260825"
+  },
+  {
+    "time_et": "14:49:39",
+    "exchange": "C",
+    "price": 0.16,
+    "change": -0.01,
+    "volume": 300,
+    "buyer": "36 Latimer",
+    "seller": "79 CIBC",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260825"
+  },
+  {
+    "time_et": "13:10:45",
+    "exchange": "D",
+    "price": 0.16,
+    "change": 0.07,
+    "volume": 12,
+    "buyer": "1 Anonymous",
+    "seller": "33 Canaccord",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260825"
   }
 ]
