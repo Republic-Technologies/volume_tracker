@@ -31174,5 +31174,41 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260825"
+  },
+  {
+    "time_et": "15:57:25",
+    "exchange": "D",
+    "price": 0.16,
+    "change": 0.07,
+    "volume": 10,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260827"
+  },
+  {
+    "time_et": "15:04:57",
+    "exchange": "D",
+    "price": 0.16,
+    "change": 0.07,
+    "volume": 50,
+    "buyer": "80 National Bank",
+    "seller": "2 RBC",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260827"
+  },
+  {
+    "time_et": "10:41:30",
+    "exchange": "D",
+    "price": 0.16,
+    "change": 0.07,
+    "volume": 95,
+    "buyer": "1 Anonymous",
+    "seller": "7 TD Sec",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260827"
   }
 ]
