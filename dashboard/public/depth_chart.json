@@ -42766,5 +42766,104 @@
     "ask_price": 0.7,
     "bid_size": 1000,
     "ask_size": 1000
+  },
+  {
+    "timestamp": "2026-08-28",
+    "price": 0.17,
+    "volume": 1000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "W.D. Latimer Co. Limited",
+    "bid_price": 0.17,
+    "ask_price": 0.2,
+    "bid_size": 1000,
+    "ask_size": 500
+  },
+  {
+    "timestamp": "2026-08-28",
+    "price": 0.16,
+    "volume": 1000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "RBC Capital Markets",
+    "bid_price": 0.16,
+    "ask_price": 0.2,
+    "bid_size": 1000,
+    "ask_size": 4000
+  },
+  {
+    "timestamp": "2026-08-28",
+    "price": 0.16,
+    "volume": 1000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Desjardins Securities Inc.",
+    "bid_price": 0.16,
+    "ask_price": 0.21,
+    "bid_size": 1000,
+    "ask_size": 500
+  },
+  {
+    "timestamp": "2026-08-28",
+    "price": 0.155,
+    "volume": 1000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "W.D. Latimer Co. Limited",
+    "bid_price": 0.155,
+    "ask_price": 0.25,
+    "bid_size": 1000,
+    "ask_size": 500
+  },
+  {
+    "timestamp": "2026-08-28",
+    "price": 0.15,
+    "volume": 2000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "W.D. Latimer Co. Limited",
+    "bid_price": 0.15,
+    "ask_price": 0.3,
+    "bid_size": 2000,
+    "ask_size": 500
+  },
+  {
+    "timestamp": "2026-08-28",
+    "price": 0.145,
+    "volume": 1000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Anonymous",
+    "bid_price": 0.145,
+    "ask_price": 0.39,
+    "bid_size": 1000,
+    "ask_size": 1000
+  },
+  {
+    "timestamp": "2026-08-28",
+    "price": 0.14,
+    "volume": 1000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "TD Securities Inc.",
+    "bid_price": 0.14,
+    "ask_price": 0.4,
+    "bid_size": 1000,
+    "ask_size": 1000
+  },
+  {
+    "timestamp": "2026-08-28",
+    "price": 0.14,
+    "volume": 1000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "Anonymous",
+    "bid_price": 0.14,
+    "ask_price": 0.48,
+    "bid_size": 1000,
+    "ask_size": 2500
+  },
+  {
+    "timestamp": "2026-08-28",
+    "price": 0.13,
+    "volume": 2000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "National Bank Financial Inc.",
+    "bid_price": 0.13,
+    "ask_price": 0.7,
+    "bid_size": 2000,
+    "ask_size": 1000
   }
 ]
