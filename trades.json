@@ -31714,5 +31714,17 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260828"
+  },
+  {
+    "time_et": "13:14:16",
+    "exchange": "H",
+    "price": 0.17,
+    "change": null,
+    "volume": 500,
+    "buyer": "1 Anonymous",
+    "seller": "80 National Bank",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260831"
   }
 ]
