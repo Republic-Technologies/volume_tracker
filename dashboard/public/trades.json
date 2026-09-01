@@ -31738,5 +31738,17 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260901"
+  },
+  {
+    "time_et": "10:29:31",
+    "exchange": "C",
+    "price": 0.185,
+    "change": 0.015,
+    "volume": 1000,
+    "buyer": "124 Questrade",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260901"
   }
 ]
