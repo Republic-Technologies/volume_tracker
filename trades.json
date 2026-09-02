@@ -31834,5 +31834,29 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260902"
+  },
+  {
+    "time_et": "14:48:58",
+    "exchange": "C",
+    "price": 0.17,
+    "change": -0.015,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "57 Interactive",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260902"
+  },
+  {
+    "time_et": "14:48:58",
+    "exchange": "C",
+    "price": 0.175,
+    "change": -0.01,
+    "volume": 2000,
+    "buyer": "1 Anonymous",
+    "seller": "57 Interactive",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260902"
   }
 ]
