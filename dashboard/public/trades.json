@@ -31750,5 +31750,89 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260901"
+  },
+  {
+    "time_et": "11:52:46",
+    "exchange": "C",
+    "price": 0.18,
+    "change": -0.005,
+    "volume": 1000,
+    "buyer": "124 Questrade",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260902"
+  },
+  {
+    "time_et": "11:00:01",
+    "exchange": "C",
+    "price": 0.175,
+    "change": -0.01,
+    "volume": 300,
+    "buyer": "36 Latimer",
+    "seller": "19 Desjardins",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260902"
+  },
+  {
+    "time_et": "10:09:47",
+    "exchange": "Y",
+    "price": 0.18,
+    "change": -0.005,
+    "volume": 500,
+    "buyer": "1 Anonymous",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260902"
+  },
+  {
+    "time_et": "10:09:47",
+    "exchange": "O",
+    "price": 0.18,
+    "change": -0.005,
+    "volume": 500,
+    "buyer": "1 Anonymous",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260902"
+  },
+  {
+    "time_et": "09:41:49",
+    "exchange": "M",
+    "price": 0.18,
+    "change": -0.005,
+    "volume": 1000,
+    "buyer": "1 Anonymous",
+    "seller": "1 Anonymous",
+    "markers": "",
+    "symbol": "DOCT",
+    "date": "20260902"
+  },
+  {
+    "time_et": "09:32:52",
+    "exchange": "Y",
+    "price": 0.17,
+    "change": -0.015,
+    "volume": 500,
+    "buyer": "1 Anonymous",
+    "seller": "19 Desjardins",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260902"
+  },
+  {
+    "time_et": "09:32:52",
+    "exchange": "O",
+    "price": 0.17,
+    "change": -0.015,
+    "volume": 1000,
+    "buyer": "1 Anonymous",
+    "seller": "19 Desjardins",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260902"
   }
 ]
