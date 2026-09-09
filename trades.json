@@ -31942,5 +31942,53 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260908"
+  },
+  {
+    "time_et": "11:40:49",
+    "exchange": "C",
+    "price": 0.175,
+    "change": 0.005,
+    "volume": 1000,
+    "buyer": "124 Questrade",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260909"
+  },
+  {
+    "time_et": "11:05:48",
+    "exchange": "C",
+    "price": 0.17,
+    "change": null,
+    "volume": 1000,
+    "buyer": "1 Anonymous",
+    "seller": "2 RBC",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260909"
+  },
+  {
+    "time_et": "11:05:48",
+    "exchange": "C",
+    "price": 0.17,
+    "change": null,
+    "volume": 500,
+    "buyer": "1 Anonymous",
+    "seller": "2 RBC",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260909"
+  },
+  {
+    "time_et": "11:05:48",
+    "exchange": "C",
+    "price": 0.17,
+    "change": null,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "2 RBC",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260909"
   }
 ]
