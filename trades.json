@@ -32014,5 +32014,29 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20260911"
+  },
+  {
+    "time_et": "15:31:06",
+    "exchange": "M",
+    "price": 0.17,
+    "change": -0.005,
+    "volume": 250,
+    "buyer": "80 National Bank",
+    "seller": "79 CIBC",
+    "markers": "",
+    "symbol": "DOCT",
+    "date": "20260911"
+  },
+  {
+    "time_et": "15:20:33",
+    "exchange": "M",
+    "price": 0.17,
+    "change": -0.005,
+    "volume": 130,
+    "buyer": "80 National Bank",
+    "seller": "7 TD Sec",
+    "markers": "",
+    "symbol": "DOCT",
+    "date": "20260911"
   }
 ]
