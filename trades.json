@@ -32038,5 +32038,17 @@
     "markers": "",
     "symbol": "DOCT",
     "date": "20260911"
+  },
+  {
+    "time_et": "10:31:21",
+    "exchange": "C",
+    "price": 0.17,
+    "change": -0.005,
+    "volume": 250,
+    "buyer": "36 Latimer",
+    "seller": "85 Scotia",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260914"
   }
 ]
