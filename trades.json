@@ -32062,5 +32062,77 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260915"
+  },
+  {
+    "time_et": "15:45:15",
+    "exchange": "C",
+    "price": 0.17,
+    "change": -0.005,
+    "volume": 400,
+    "buyer": "36 Latimer",
+    "seller": "7 TD Sec",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260918"
+  },
+  {
+    "time_et": "15:45:15",
+    "exchange": "C",
+    "price": 0.17,
+    "change": -0.005,
+    "volume": 1500,
+    "buyer": "84 ITG84",
+    "seller": "7 TD Sec",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260918"
+  },
+  {
+    "time_et": "15:45:15",
+    "exchange": "C",
+    "price": 0.17,
+    "change": -0.005,
+    "volume": 500,
+    "buyer": "7 TD Sec",
+    "seller": "7 TD Sec",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260918"
+  },
+  {
+    "time_et": "14:09:23",
+    "exchange": "C",
+    "price": 0.17,
+    "change": -0.005,
+    "volume": 1000,
+    "buyer": "1 Anonymous",
+    "seller": "7 TD Sec",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260918"
+  },
+  {
+    "time_et": "14:09:23",
+    "exchange": "C",
+    "price": 0.17,
+    "change": -0.005,
+    "volume": 500,
+    "buyer": "1 Anonymous",
+    "seller": "7 TD Sec",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260918"
+  },
+  {
+    "time_et": "12:39:16",
+    "exchange": "D",
+    "price": 0.17,
+    "change": 0.065,
+    "volume": 116,
+    "buyer": "1 Anonymous",
+    "seller": "39 Merrill Lynch",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260918"
   }
 ]
