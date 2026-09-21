@@ -32134,5 +32134,29 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260918"
+  },
+  {
+    "time_et": "11:28:52",
+    "exchange": "C",
+    "price": 0.17,
+    "change": null,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "80 National Bank",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20260921"
+  },
+  {
+    "time_et": "11:22:20",
+    "exchange": "C",
+    "price": 0.17,
+    "change": null,
+    "volume": 75,
+    "buyer": "36 Latimer",
+    "seller": "85 Scotia",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260921"
   }
 ]
