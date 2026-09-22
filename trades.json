@@ -32194,5 +32194,17 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260922"
+  },
+  {
+    "time_et": "15:24:43",
+    "exchange": "D",
+    "price": 0.175,
+    "change": 0.07,
+    "volume": 15,
+    "buyer": "1 Anonymous",
+    "seller": "9 BMO Nesbitt",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260922"
   }
 ]
