@@ -32218,5 +32218,29 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20260924"
+  },
+  {
+    "time_et": "14:38:05",
+    "exchange": "D",
+    "price": 0.175,
+    "change": 0.065,
+    "volume": 6,
+    "buyer": "80 National Bank",
+    "seller": "39 Merrill Lynch",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260925"
+  },
+  {
+    "time_et": "13:16:16",
+    "exchange": "D",
+    "price": 0.175,
+    "change": 0.065,
+    "volume": 25,
+    "buyer": "1 Anonymous",
+    "seller": "33 Canaccord",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20260925"
   }
 ]
