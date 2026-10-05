@@ -32362,5 +32362,41 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20261002"
+  },
+  {
+    "time_et": "15:50:17",
+    "exchange": "C",
+    "price": 0.175,
+    "change": null,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "80 National Bank",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20261005"
+  },
+  {
+    "time_et": "15:50:17",
+    "exchange": "C",
+    "price": 0.18,
+    "change": 0.005,
+    "volume": 1000,
+    "buyer": "124 Questrade",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20261005"
+  },
+  {
+    "time_et": "14:30:02",
+    "exchange": "D",
+    "price": 0.175,
+    "change": 0.065,
+    "volume": 17,
+    "buyer": "1 Anonymous",
+    "seller": "2 RBC",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20261005"
   }
 ]
