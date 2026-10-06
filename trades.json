@@ -32410,5 +32410,113 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20261006"
+  },
+  {
+    "time_et": "14:04:53",
+    "exchange": "M",
+    "price": 0.175,
+    "change": null,
+    "volume": 250,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20261006"
+  },
+  {
+    "time_et": "11:25:21",
+    "exchange": "C",
+    "price": 0.175,
+    "change": null,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "80 National Bank",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20261006"
+  },
+  {
+    "time_et": "11:25:21",
+    "exchange": "M",
+    "price": 0.175,
+    "change": null,
+    "volume": 50,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20261006"
+  },
+  {
+    "time_et": "10:27:42",
+    "exchange": "M",
+    "price": 0.175,
+    "change": null,
+    "volume": 10,
+    "buyer": "80 National Bank",
+    "seller": "85 Scotia",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20261006"
+  },
+  {
+    "time_et": "10:22:59",
+    "exchange": "C",
+    "price": 0.18,
+    "change": 0.005,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "124 Questrade",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20261006"
+  },
+  {
+    "time_et": "10:22:44",
+    "exchange": "C",
+    "price": 0.18,
+    "change": 0.005,
+    "volume": 1000,
+    "buyer": "84 ITG84",
+    "seller": "124 Questrade",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20261006"
+  },
+  {
+    "time_et": "10:22:44",
+    "exchange": "C",
+    "price": 0.18,
+    "change": 0.005,
+    "volume": 500,
+    "buyer": "124 Questrade",
+    "seller": "124 Questrade",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20261006"
+  },
+  {
+    "time_et": "10:05:43",
+    "exchange": "C",
+    "price": 0.18,
+    "change": 0.005,
+    "volume": 500,
+    "buyer": "124 Questrade",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20261006"
+  },
+  {
+    "time_et": "09:43:56",
+    "exchange": "D",
+    "price": 0.2,
+    "change": 0.065,
+    "volume": 50,
+    "buyer": "7 TD Sec",
+    "seller": "1 Anonymous",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20261006"
   }
 ]
