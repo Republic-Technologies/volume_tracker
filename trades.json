@@ -32398,5 +32398,17 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20261005"
+  },
+  {
+    "time_et": "14:30:02",
+    "exchange": "D",
+    "price": 0.175,
+    "change": 0.065,
+    "volume": 17,
+    "buyer": "1 Anonymous",
+    "seller": "2 RBC",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20261006"
   }
 ]
