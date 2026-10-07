@@ -32518,5 +32518,53 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20261006"
+  },
+  {
+    "time_et": "14:04:53",
+    "exchange": "M",
+    "price": 0.175,
+    "change": null,
+    "volume": 250,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20261007"
+  },
+  {
+    "time_et": "11:25:21",
+    "exchange": "M",
+    "price": 0.175,
+    "change": null,
+    "volume": 50,
+    "buyer": "80 National Bank",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20261007"
+  },
+  {
+    "time_et": "10:27:42",
+    "exchange": "M",
+    "price": 0.175,
+    "change": null,
+    "volume": 10,
+    "buyer": "80 National Bank",
+    "seller": "85 Scotia",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20261007"
+  },
+  {
+    "time_et": "09:43:56",
+    "exchange": "D",
+    "price": 0.2,
+    "change": 0.065,
+    "volume": 50,
+    "buyer": "7 TD Sec",
+    "seller": "1 Anonymous",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20261007"
   }
 ]
