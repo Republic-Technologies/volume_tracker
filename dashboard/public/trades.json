@@ -32686,5 +32686,29 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20261009"
+  },
+  {
+    "time_et": "10:45:37",
+    "exchange": "C",
+    "price": 0.175,
+    "change": null,
+    "volume": 125,
+    "buyer": "36 Latimer",
+    "seller": "7 TD Sec",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20261009"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.185,
+    "change": 0.01,
+    "volume": 56,
+    "buyer": "7 TD Sec",
+    "seller": "36 Latimer",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20261009"
   }
 ]
