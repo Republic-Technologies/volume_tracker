@@ -32818,5 +32818,17 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20261014"
+  },
+  {
+    "time_et": "14:48:06",
+    "exchange": "M",
+    "price": 0.175,
+    "change": null,
+    "volume": 75,
+    "buyer": "1 Anonymous",
+    "seller": "1 Anonymous",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20261014"
   }
 ]
