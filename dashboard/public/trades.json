@@ -32746,5 +32746,29 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20261013"
+  },
+  {
+    "time_et": "13:06:33",
+    "exchange": "D",
+    "price": 0.175,
+    "change": 0.065,
+    "volume": 71,
+    "buyer": "80 National Bank",
+    "seller": "88 Credential",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20261014"
+  },
+  {
+    "time_et": "09:52:38",
+    "exchange": "D",
+    "price": 0.175,
+    "change": 0.065,
+    "volume": 350,
+    "buyer": "1 Anonymous",
+    "seller": "2 RBC",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20261014"
   }
 ]
