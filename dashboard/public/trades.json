@@ -32986,5 +32986,29 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20261021"
+  },
+  {
+    "time_et": "15:08:39",
+    "exchange": "C",
+    "price": 0.17,
+    "change": -0.005,
+    "volume": 500,
+    "buyer": "1 Anonymous",
+    "seller": "88 Credential",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20261021"
+  },
+  {
+    "time_et": "15:08:39",
+    "exchange": "C",
+    "price": 0.175,
+    "change": null,
+    "volume": 2000,
+    "buyer": "1 Anonymous",
+    "seller": "88 Credential",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20261021"
   }
 ]
