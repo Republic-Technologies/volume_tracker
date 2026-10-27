@@ -33034,5 +33034,17 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20261026"
+  },
+  {
+    "time_et": "12:10:46",
+    "exchange": "D",
+    "price": 0.18,
+    "change": 0.07,
+    "volume": 40,
+    "buyer": "1 Anonymous",
+    "seller": "2 RBC",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20261027"
   }
 ]
