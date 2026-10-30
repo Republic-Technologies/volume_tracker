@@ -33058,5 +33058,17 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20261029"
+  },
+  {
+    "time_et": "10:46:58",
+    "exchange": "D",
+    "price": 0.17,
+    "change": 0.07,
+    "volume": 25,
+    "buyer": "80 National Bank",
+    "seller": "2 RBC",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20261030"
   }
 ]
