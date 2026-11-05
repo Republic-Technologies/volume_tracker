@@ -52622,5 +52622,16 @@
     "ask_price": 0.4,
     "bid_size": 500,
     "ask_size": 11500
+  },
+  {
+    "timestamp": "2026-11-05",
+    "price": 0.17,
+    "volume": 1000,
+    "buyer_broker": "Independent Trading Group",
+    "seller_broker": "CIBC World Markets Inc.",
+    "bid_price": 0.17,
+    "ask_price": 0.18,
+    "bid_size": 1000,
+    "ask_size": 500
   }
 ]

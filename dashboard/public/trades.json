@@ -33178,5 +33178,41 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20261103"
+  },
+  {
+    "time_et": "13:36:55",
+    "exchange": "D",
+    "price": 0.17,
+    "change": 0.07,
+    "volume": 2,
+    "buyer": "1 Anonymous",
+    "seller": "88 Credential",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20261105"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.17,
+    "change": null,
+    "volume": 396,
+    "buyer": "36 Latimer",
+    "seller": "14 Virtu ITG",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20261105"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.17,
+    "change": null,
+    "volume": 500,
+    "buyer": "1 Anonymous",
+    "seller": "14 Virtu ITG",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20261105"
   }
 ]
