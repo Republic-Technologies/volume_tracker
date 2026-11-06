@@ -33214,5 +33214,53 @@
     "markers": "K",
     "symbol": "DOCT",
     "date": "20261105"
+  },
+  {
+    "time_et": "14:57:19",
+    "exchange": "O",
+    "price": 0.16,
+    "change": -0.01,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20261106"
+  },
+  {
+    "time_et": "14:57:19",
+    "exchange": "H",
+    "price": 0.16,
+    "change": -0.01,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "1 Anonymous",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20261106"
+  },
+  {
+    "time_et": "14:56:59",
+    "exchange": "D",
+    "price": 0.16,
+    "change": 0.07,
+    "volume": 54,
+    "buyer": "80 National Bank",
+    "seller": "1 Anonymous",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20261106"
+  },
+  {
+    "time_et": "13:36:55",
+    "exchange": "D",
+    "price": 0.17,
+    "change": 0.07,
+    "volume": 2,
+    "buyer": "1 Anonymous",
+    "seller": "88 Credential",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20261106"
   }
 ]
