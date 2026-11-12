@@ -33526,5 +33526,41 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20261112"
+  },
+  {
+    "time_et": "13:20:35",
+    "exchange": "C",
+    "price": 0.16,
+    "change": null,
+    "volume": 250,
+    "buyer": "36 Latimer",
+    "seller": "33 Canaccord",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20261112"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.16,
+    "change": null,
+    "volume": 63,
+    "buyer": "36 Latimer",
+    "seller": "7 TD Sec",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20261112"
+  },
+  {
+    "time_et": "09:30:00",
+    "exchange": "C",
+    "price": 0.16,
+    "change": null,
+    "volume": 66,
+    "buyer": "36 Latimer",
+    "seller": "2 RBC",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20261112"
   }
 ]
