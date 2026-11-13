@@ -33562,5 +33562,17 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20261112"
+  },
+  {
+    "time_et": "15:30:19",
+    "exchange": "D",
+    "price": 0.17,
+    "change": 0.08,
+    "volume": 1,
+    "buyer": "7 TD Sec",
+    "seller": "80 National Bank",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20261113"
   }
 ]
