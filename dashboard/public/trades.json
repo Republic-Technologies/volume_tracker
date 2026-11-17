@@ -33718,5 +33718,101 @@
     "markers": "",
     "symbol": "DOCT",
     "date": "20261117"
+  },
+  {
+    "time_et": "13:58:12",
+    "exchange": "C",
+    "price": 0.145,
+    "change": -0.005,
+    "volume": 50,
+    "buyer": "36 Latimer",
+    "seller": "7 TD Sec",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20261117"
+  },
+  {
+    "time_et": "13:58:12",
+    "exchange": "C",
+    "price": 0.145,
+    "change": -0.005,
+    "volume": 1000,
+    "buyer": "84 ITG84",
+    "seller": "7 TD Sec",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20261117"
+  },
+  {
+    "time_et": "12:42:58",
+    "exchange": "M",
+    "price": 0.145,
+    "change": -0.005,
+    "volume": 323,
+    "buyer": "1 Anonymous",
+    "seller": "1 Anonymous",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20261117"
+  },
+  {
+    "time_et": "12:42:58",
+    "exchange": "C",
+    "price": 0.145,
+    "change": -0.005,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "2 RBC",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20261117"
+  },
+  {
+    "time_et": "12:32:57",
+    "exchange": "M",
+    "price": 0.16,
+    "change": 0.01,
+    "volume": 250,
+    "buyer": "7 TD Sec",
+    "seller": "1 Anonymous",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20261117"
+  },
+  {
+    "time_et": "12:26:16",
+    "exchange": "C",
+    "price": 0.15,
+    "change": null,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "7 TD Sec",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20261117"
+  },
+  {
+    "time_et": "11:07:15",
+    "exchange": "C",
+    "price": 0.145,
+    "change": -0.005,
+    "volume": 50,
+    "buyer": "36 Latimer",
+    "seller": "85 Scotia",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20261117"
+  },
+  {
+    "time_et": "09:35:20",
+    "exchange": "C",
+    "price": 0.145,
+    "change": -0.005,
+    "volume": 148,
+    "buyer": "36 Latimer",
+    "seller": "133 Canaccord",
+    "markers": "E",
+    "symbol": "DOCT",
+    "date": "20261117"
   }
 ]
