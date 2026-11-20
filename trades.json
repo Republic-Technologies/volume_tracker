@@ -33910,5 +33910,41 @@
     "markers": "E",
     "symbol": "DOCT",
     "date": "20261120"
+  },
+  {
+    "time_et": "12:49:20",
+    "exchange": "C",
+    "price": 0.145,
+    "change": null,
+    "volume": 1500,
+    "buyer": "84 ITG84",
+    "seller": "2 RBC",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20261120"
+  },
+  {
+    "time_et": "12:49:20",
+    "exchange": "C",
+    "price": 0.145,
+    "change": null,
+    "volume": 1000,
+    "buyer": "84 ITG84",
+    "seller": "2 RBC",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20261120"
+  },
+  {
+    "time_et": "12:49:20",
+    "exchange": "C",
+    "price": 0.145,
+    "change": null,
+    "volume": 500,
+    "buyer": "84 ITG84",
+    "seller": "2 RBC",
+    "markers": "K",
+    "symbol": "DOCT",
+    "date": "20261120"
   }
 ]
