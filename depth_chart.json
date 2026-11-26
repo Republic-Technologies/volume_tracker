@@ -56329,5 +56329,16 @@
     "ask_price": 0.4,
     "bid_size": 2000,
     "ask_size": 11500
+  },
+  {
+    "timestamp": "2026-11-26",
+    "price": 0.14,
+    "volume": 1000,
+    "buyer_broker": "Anonymous",
+    "seller_broker": "Anonymous",
+    "bid_price": 0.14,
+    "ask_price": 0.17,
+    "bid_size": 1000,
+    "ask_size": 500
   }
 ]
